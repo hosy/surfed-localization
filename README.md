@@ -6,6 +6,8 @@ If there is a language you'd like to see Surfed localized to but we haven't got 
 
 Please do not add multiple languages in the same pull request — this way, there can be a discussion thread for each language for any changes or tweaks that need to be made, and give others opportunity for peer review.
 
+The latest translation files are available in the branch `development`. Please switch to this branch and edit or add your localization from this branch.
+
 ### Disk Structure
 Languages are structured in folders as such:
 
