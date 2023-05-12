@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  Surfed
+
+  Created by Matthias Hühne on 31.05.22.
+  
+*/
+
+"Search" = "搜索";
+"Favorite" = "最爱";
+"Today" = "今天";
+"History" = "历史";
+"Surfed Sharing" = "Surfed 分享";
