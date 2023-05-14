@@ -8,16 +8,16 @@
         "description": "Description of what the extension does."
     },
     "favorite_site" : {
-        "message" : "☆"
+        "message" : "􀋂"
     },
     "unfavorite_site" : {
-        "message" : "★"
+        "message" : "􀋃"
     },
     "flag_site" : {
-        "message" : "⚐"
+        "message" : "􀋉"
     },
     "unflag_site" : {
-        "message" : "⚑"
+        "message" : "􀋊"
     },
     "tag_with" : {
         "message" : "#"

@@ -7,17 +7,17 @@
     "message": "Surfed enregistre votre historique. Votre historique n'est pas analysé ou utilisé à d'autres fins.",
     "description": "Description de ce que fait l'extension."
   },
-  "favorite_site": {
-    "message": "☆"
+  "favorite_site" : {
+      "message" : "􀋂"
   },
-  "unfavorite_site": {
-    "message": "★"
+  "unfavorite_site" : {
+      "message" : "􀋃"
   },
-  "flag_site": {
-    "message": "⚐"
+  "flag_site" : {
+      "message" : "􀋉"
   },
-  "unflag_site": {
-    "message": "⚑"
+  "unflag_site" : {
+      "message" : "􀋊"
   },
   "tag_with": {
     "message": "Tag avec #"
