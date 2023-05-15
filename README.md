@@ -62,14 +62,14 @@ Where you see a `%@` or `%ld` token, this denotes a value that is replaced at ru
 
 The French localisation was translated experimentally with the help of OpenAI. To get a better result, the AI prompt was created with context to the app and an instruction on what the structure looks like and which placeholders to keep or characters to escape.
 
-Für die `*.strings` Dateien wurde folgender Prompt verwendet:
+The following prompt was used for the `*.strings` files:
 
 ```
 Localise the following key/value entries into French. Context: The strings belongs to the iOS app Surfed, which is a history and bookmark manager and web automation tool. The left value is the key and the right value after the equal character is the the value. Key and values are wrapped inside double quotes. The left key should not be translated. Please keep placeholder characters like %@ or %ld, which will be used for dynamic values. Double quotes inside the key and value needs to be escaped by a slash. Every line needs a semicolon at the end:
 ```
 
 
-Für die `*.json` Dateien wurde folgender Prompt verwendet:
+The following prompt was used for the `*.json` files:
 
 ```
 Localise the following JSON entries into French. Context: The strings belongs to the iOS app Surfed, which is a history and bookmark manager and web automation tool. The left value is the key and the right value after the colon character is the the value. Values are wrapped inside double quotes. The key should not be translated. Double quotes inside the value needs to be escaped by a slash:
