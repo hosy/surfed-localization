@@ -44,7 +44,7 @@ It would be great if this file could be translated completely.
 ####  In-App Help/support.json
 
 This is file contains the strings of the in-app help. 
-This file is very extensive and does not necessarily need to be translated. Nevertheless, I would be very pleased.
+This file is very extensive and is not a must have to translate. Nevertheless, I would be very pleased.
 
 ## Localization
 
