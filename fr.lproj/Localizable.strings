@@ -1,4 +1,4 @@
-/* 
+/*
   Localizable.strings
   Surfed
 
@@ -87,7 +87,7 @@
 "Remove from Favorites" = "Retirer des favoris";
 "Open all Links in Browser" = "Ouvrir tous les liens dans le navigateur";
 "Open in new Window" = "Ouvrir dans une nouvelle fenêtre";
-""Open URL" Action" = "Action « Ouvrir URL »";
+"\"Open URL\" Action" = "Action „Ouvrir URL“";
 "Add to Tag" = "Ajouter au tag";
 "%@ is empty" = "%@ est vide";
 "Edit Collection" = "Modifier la collection";
@@ -115,7 +115,7 @@
 "Not Flagged" = "Non signalé";
 "Not Favorited" = "Non favorisé";
 "Not: %@" = "Pas : %@";
-""Is Not" Search Suggestions" = "Suggestions de recherche « n'est pas »";
+"\"Is Not\" Search Suggestions" = "Suggestions de recherche „n'est pas“";
 "Search Suggestions" = "Suggestions de recherche";
 "You can find a detailed description about search term shortcuts in the app help." = "Vous pouvez trouver une description détaillée des raccourcis des mots recherchés dans l'aide de l'application.";
 "Enter a date in format: %@ (Use %% as wildcard e.g.: %%%%.02.2022)" = "Entrez une date au format : %@ (Utilisez %% comme joker, par exemple : %%%%.02.2022)";
@@ -226,10 +226,10 @@
 "If you have a collection that you would like to share, please send it to support@surfed.app and it may soon appear in this gallery." = "Als u een verzameling heeft die u wilt delen, stuur deze dan naar support@surfed.app en deze kan binnenkort in deze galerij verschijnen.";
 "Import Error" = "Importfout";
 "File could not be imported." = "Bestand kan niet worden geïmporteerd.";
-"Latest Tags" = "Laatste tags";
+"Latest Tags" = "Dernières étiquettes";
 "What´s New" = "Wat is nieuw";
 "Loading %@…" = "Laden %@…";
-"Loading…" = "Laden...";
+"Loading…" = "Laden…";
 "Private Browsing Mode" = "Privé browsen";
 "Do you want to record your web page history even in private browsing mode?\n\n You can change this setting at any time in the app settings." = "Wilt u uw webpagina-geschiedenis opnemen, zelfs in de privémodus?\n\nU kunt deze instelling op elk gewenst moment wijzigen in de app-instellingen.";
 "Yes" = "Ja";
@@ -535,6 +535,6 @@
 "App Tint" = "Teinte de l'App";
 "Filter Tags by usage" = "Filtrer les étiquettes par utilisation";
 "Assigned" = "Assigné";
-"Add New Tag…" = "Ajouter un nouveau étiquette...";
+"Add New Tag…" = "Ajouter un nouveau étiquette…";
 "This option is only available afer unlocking Pro Features." = "Cette option n'est disponible qu'après avoir débloqué les fonctionnalités Pro.";
 "Tint view elements with the chosen collection or tag colour." = "Teinter les éléments de la vue avec la couleur de la collection ou de l'étiquette choisie.";
