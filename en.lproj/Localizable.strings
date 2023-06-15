@@ -532,3 +532,11 @@
 "Decode characters of the input string" = "Decode characters of the input string";
 "If the URL was shortened with a service like tiny.url, this function unshorten the URL to the real URL" = "If the URL was shortened with a service like tiny.url, this function unshorten the URL to the real URL";
 "App Badge" = "App Badge";
+"Added: %@" = "Added: %@";
+"List Colouring" = "List Colouring";
+"App Tint" = "App Tint";
+"Filter Tags by usage" = "Filter Tags by usage";
+"Assigned" = "Assigned";
+"Add New Tag…" = "Add New Tag…";
+"This option is only available afer unlocking Pro Features." = "This option is only available afer unlocking Pro Features.";
+"Tint view elements with the chosen collection or tag colour." = "Tint view elements with the chosen collection or tag colour.";
