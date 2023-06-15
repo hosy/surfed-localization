@@ -530,3 +530,11 @@
 "Decode characters of the input string" = "Décoder les caractères de la chaîne d'entrée";
 "If the URL was shortened with a service like tiny.url, this function unshorten the URL to the real URL" = "Si l'URL a été raccourcie avec un service comme tiny.url, cette fonction déshortera l'URL vers l'URL réelle";
 "App Badge" = "Badge de l'application";
+"Added: %@" = "Ajouté: %@";
+"List Colouring" = "Coloration de liste";
+"App Tint" = "Teinte de l'App";
+"Filter Tags by usage" = "Filtrer les étiquettes par utilisation";
+"Assigned" = "Assigné";
+"Add New Tag…" = "Ajouter un nouveau étiquette...";
+"This option is only available afer unlocking Pro Features." = "Cette option n'est disponible qu'après avoir débloqué les fonctionnalités Pro.";
+"Tint view elements with the chosen collection or tag colour." = "Teinter les éléments de la vue avec la couleur de la collection ou de l'étiquette choisie.";
