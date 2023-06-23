@@ -1,0 +1,61 @@
+{
+    "extension_name": {
+        "message": "Surfed",
+        "description": "The display name for the extension."
+    },
+    "extension_description": {
+        "message": "Surfed records your history. Your history is not analyzed or used in any other purpose.",
+        "description": "Description of what the extension does."
+    },
+    "favorite_site" : {
+        "message" : "􀋂"
+    },
+    "unfavorite_site" : {
+        "message" : "􀋃"
+    },
+    "flag_site" : {
+        "message" : "􀋉"
+    },
+    "unflag_site" : {
+        "message" : "􀋊"
+    },
+    "tag_with" : {
+        "message" : "Tag with #"
+    },
+    "search_history" : {
+        "message" : "Search History"
+    },
+    "search_favorites" : {
+        "message" : "Search Favorites"
+    },
+    "tags" : {
+        "message" : "Tags"
+    },
+    "collections" : {
+        "message" : "Collections"
+    },
+    "new_tag" : {
+        "message" : "Enter new Tag(s)"
+    },
+    "cancel" : {
+        "message" : "Cancel"
+    },
+    "add_tag" : {
+        "message" : "Add Tag"
+    },
+    "history" : {
+        "message" : "History"
+    },
+    "favorites" : {
+        "message" : "Favorites"
+    },
+    "unlock_header" : {
+        "message" : "Enter password to unlock"
+    },
+    "password" : {
+        "message" : "Password"
+    },
+    "unlock" : {
+        "message" : "Unlock"
+    }
+}

@@ -1,0 +1,480 @@
+{
+    "headerItems": [{
+            "id": 1,
+            "title": "Setup Surfed\nSafari Extension",
+            "imageName": "safari",
+            "color": 0,
+            "supportPages": [{
+                    "id": 0,
+                    "title": "Setup the Safari Extension",
+                    "subtitle": "Welcome to Surfed, your new Safari history and bookmark manager and browsing statistic tool.\n\nIn order to use Surfed to its full extent, you need to activate the Safari Extension.\n\nThere are two ways to enable it. Swipe to the next step, how it works.",
+                    "localImage": "LargeIcon"
+                },
+                {
+                    "id": 1,
+                    "title": "1. Setup via Settings.app",
+                    "subtitle": "- Open the Settings app\n- Choose Safari > Extensions > Surfed\n- Activate Surfed\n- Select \"All Websites\" and activate \"All Websites\".",
+                    "videoURL": "https://hosy.github.io/surfed-support/images/en/Settings-Safari-Extensions.mp4"
+                },
+                {
+                    "id": 2,
+                    "title": "2. Setup via Safari",
+                    "subtitle": "- Open Safari\n- iPhone: Tap on the Reader-Button > Extensions > Surfed\niPad: Tap on Puzzle Icon > Manage Extension > Surfed\n- Enable Surfed\n- Tap on Surfed",
+                    "videoURL": "https://hosy.github.io/surfed-support/images/en/Safari-Extension.mp4"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "title": "What´s New",
+            "imageName": "sparkles",
+            "color": 1,
+            "supportPages": [
+                {
+                "id": 0,
+                "title": "Version 1.4.1",
+                "subtitle": "**Web Trigger Functions**\nPrepare actions with the new available Web Trigger functions: \nSearch and Replace, Remove String, URL decode/encode, un-shorten URL\nNew main Actions: Show Article, Listen Article\n\n**Share Sheet Action**\nThe share sheet has a new action extension to quickly run URL actions and Web Triggers on the current Safari website\n\n**Share Sheet**\nRun Web Trigger, Article and AI Actions directly from the Share Sheet\n\n**Latest Tags**\nConfigure how many latest tags should be shown\n\n**New:**\n• Show OpenAI errors\n• Reset uncritical settings with URL scheme\n• Safari Popup: Added flag action\n• Web Trigger: Added support for nested custom parameters\n• Web Trigger: new parameter \"URL ID\"\n• URL parameter \"auto-run-web-trigger=false\" append to URL to prevent automatically run Web Triggers\n\n**Fix:**\n• Limit OpenAI API key length\n• iPad crash"
+            },{
+                "id": 1,
+                "title": "Version 1.4",
+                "subtitle": "**Full-text search, Article View, Listen Article**\nExperience seamless reading and listening with new features. Full-Text Search and Article View help find saved articles and improve distraction-free reading. Listen Article integrates with iOS media player to listen to articles with additional info.\n\n**Notification Actions**\nCustomize up to 11 actions per notification Web Trigger for Safari with options like running shortcuts, opening app schemes, adding note or tags, listening to the article, adding a note, tagging and summarizing the article with OpenAI and more. Make changes to personalize notification actions and view them based on trigger rules. Also, try pre-configured notification actions from Web Trigger gallery.\n\n**Auto-Tagging**\nTagging websites has never been easier with our latest Web Trigger action - \"Tag With...\". This feature allows you to automatically tag websites while browsing, making it easier for you to organize and categorize your web content.\n\n**Quick Filter Bar**\nNew filter bar now in all lists and global search to quickly select filters from various options. Quick Filter Bar helps in finding URLs in browsing history and bookmarks easier than ever.\n\n**Configurable List Actions**\nWith this feature, you can configure every list with its own select, leading, and trailing swipe actions. This allows you to customize your browsing experience and access the actions you need quickly and easily.\n\n**OpenAI Actions**\nWith OpenAI Actions, you can easily add tags or summarize an article by OpenAI, making it easier for you to organize and categorize your web content. This feature is optionally and requires an API key. Nothing will be sent without user interaction, ensuring your privacy is always protected.\n\n**New Web Trigger Actions**\n• Color Custom Parameter\n• Comment Block\n• Show App Badge\n• Add Note\n• Speak Article\n• Summarise Article with AI\n• Add Tags with AI\n• New custom parameter \"Daily Total Time\"\n\n**New App Actions**\n• Open in… (open URLs in installed Browsers and selected Apps like Zoom, Apollo)\n• Show Actions Menu\n• Run Web Trigger (in App on selected URL)\n• Show URL\n• Open in Zoom\n• Show Article\n• Show and Edit Note\n• In-App Browser\n• Open in Reader Mode\n• Copy Article\n\n**New**\n• In-App Browser and Reader Mode\n• Triple column mode on iPad and macOS\n• Date Picker in history lists\n• URL notes - add a note to a URL\n• All date search terms have now all conditions (is, is not, before, after)\n• New filter types: Article, Author, Article Language, Note\n• Search for tags in history and global search with \"#tagname\"\n• Shows assigned tags, favourite, flagged, article and note state and action button in text and small icon cells and detail view\n• New Shortcut actions: Get Note, Get Article, Set Note, Remove Tag from URL\n• Alternate coloured App Icons\n• Show flag or favourite state in global search results\n• Show date and time in Safari popup history list\n• Added support for \"Import Questions\" for Web Trigger and Collections\n• Updated editor user interface for Web Trigger and Collections\n• Added URL components to JSON-Array\n• Deep links to Tags and Collections with name like surfed://tag/Apple, surfed://collection/Apple\n• Added Web Trigger item to global search\n• New list cell type \"Long Text\"\n• Run Web Trigger manually by appending key/value parameter \"run-web-trigger=My Trigger\" to the address bar in Safari\n\n**Web Trigger Gallery**\n• Content Warning\n• Daily Browsing Limit\n• Automatically Tagging\n• Highlight Search Terms\n\n**Fix**\n• Safari Extension Popup: Set Tag\n• Resolving custom parameters in all Web Trigger actions\n• Refreshing sidebar items in multiple windows\n• Sorting tags and collections (case insensitive)\n• Adding collection groups to favourite section\n• updating title in lists after editing\n• blocking UI when searching\n• Testing a Web Trigger now using configured custom parameters"
+            },
+                {
+                "id": 2,
+                "title": "Version 1.3",
+                "subtitle": "**Web Trigger is a new web automation feature in Surfed.**\nRun Shortcuts, open app schemes, perform background URL requests, inject JavaScript code, show notifications, copy to clipboard – everything automatically when browsing websites in Safari.\nCheckout the gallery for easy to install pre-configured Web Triggers.\n\n**New:**\n\n• **On This Day** Search Action\nTap on **On This Day** action for a URL entry to show the history on this day.\n\n• Shortcuts Action **Export Tag** with tagged URLs\nExport one or more Tags with all tagged URLs into a file. This can be used to share a tag with others via iCloud file sharing.\n\n• Copy URL as Markdown action\nGet a formatted markdown link with title and link.\n\n• New sort methods by flagged and favourite state\nNow you can sort your lists by flagged and favourite state\n\n• Toolbar Buttons\nOn iPadOS 16 and macOS Ventura all context menu items are now available in the toolbar.\n\n• All new Symbol Picker\nWith the new symbol picker UI it is easy to find the right icon for your tags, collections and web trigger. Now with a tons of new symbols.\n\n• Preview Mode: added **Open in Safari** button\nNow you can switch handover your Link from the Preview Mode to Safari\n\n• Command line interface on macOS\nOn macOS you can now search your browsing history, URLs, tags and collections from the command line.\n\n**Fix:**\n• Global search: search for urls, which are not in history\n• fixed loading error in Safari popup\n• added a new preferences window\n• Blacklisting fixed\n• Search in Safari extension popup group results by URL",
+                "imageURL": "https://surfed.app/support/images/en/1.3.png",
+                "darkImageURL": "https://surfed.app/support/images/en/1.3-dark.png"
+            },
+                {
+                    "id": 3,
+                    "title": "Version 1.2",
+                    "subtitle": "**New:**\n• Password Protection\nProtect your browsing history and Surfed with your password. No one can see your browsing history, tags and collections.\n\n• iOS 16: Lockscreen Widgets\n• New Widget \"Search in Surfed\"\n• New System Actions: Backup and Restore Surfed Database\n• New System Action: Delete all history items\n• New Shortcut Action \"Backup Database\"\n• Added context menu to global search items\n• Updated Widget Layout\n• Added \"Latest Tags\" to \"Tag\" context menu\n• Added user settings for show/hide tag/collection section in share sheet\n• UI Improvements\n• Chinese Localisation\n\n**Fix:**\n• Menu item \"Add Tag…\" was not available in Tag context menu\n• Private Browsing Mode alert was shown after closing release notes ",
+                    "imageURL": "https://surfed.app/support/images/en/password.png",
+                    "darkImageURL": "https://surfed.app/support/images/en/password-dark.png"
+                },
+                {
+                    "id": 4,
+                    "title": "Version 1.1.1",
+                    "subtitle": "**Fix:**\n• „Pro Feature“ unlock was not valid in app extensions",
+                    "systemImage": "wrench"
+                },
+                {
+                    "id": 5,
+                    "title": "Version 1.1",
+                    "subtitle": "**New:**\n• Collections Gallery\nThe Gallery offers preconfigured collections that can be used with one tap. („Add collection“ > „Gallery“)\n\n• macOS version is available\n• Search with regular expressions in smart collections\n• New setting: save history in private browsing mode (default is not save)\n• Global search: search term „#“ limits search to tags, „@“ limits search to collections\n• Collections are now called „Smart Collections“\n• Save collections and tags into Files App\n• German localization\n\n**Fix:**\n• Some web pages were not added to history\n• Session time is ended when closing tabs and windows\n• Date and time conditions in collections\n• iPad: Open in new window\n• Shortcut: Get Metadata for URL",
+                    "imageURL": "https://surfed.app/support/images/en/gallery.jpeg",
+                    "darkImageURL": "https://surfed.app/support/images/en/gallery-dark.jpeg"
+                }
+            ]
+        }
+    ],
+    "highlightedSections": [{
+            "id": 3,
+            "title": "Main Features",
+            "items": [
+                {
+                    "id": 4,
+                    "title": "History",
+                    "subtitle": "Your Safari browsing history with a powerful search.",
+                    "imageName": "clock",
+                    "color": 0,
+                    "supportPages": [{
+                        "id": 0,
+                        "title": "Browsing History",
+                        "subtitle": "Surfed stores the browsing history of all visited websites in Safari. The requirement is that all permissions have been granted for this. This allows Surfed to search the history using a variety of metadata and thus find the desired web pages faster and more accurately.\n\nThe recording of the history allows to create statistics of browsing activities and get an accurate overview of all sessions.",
+                        "systemImage": "clock"
+                    },
+                        {
+                            "id": 1,
+                            "title": "Blacklist",
+                            "subtitle": "Websites that should not appear in the history, statistics or search can be added to a blacklist. With wildcards and regular expressions these can be matched exactly.\nAfter adding an entry there is the option to clean up the existing history with the new entry.",
+                            "systemImage": "xmark.shield"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Privacy",
+                            "subtitle": "Browsing history is private and personal. All data is stored only on your device and cannot be viewed by anyone else, including us.\nSurfed does not collect analytics and diagnostic data.",
+                            "systemImage": "lock.shield"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Collections",
+                    "subtitle": "Create smart lists from your browsing history or tags.",
+                    "imageName": "wand.and.stars",
+                    "color": 0,
+                    "supportPages": [{
+                        "id": 0,
+                        "title": "Smart lists",
+                        "subtitle": "Collections are smart lists that use search expressions to find the desired web pages.\nThe setup is simple and can contain an unlimited number of AND/OR relations. There are a variety of search fields for this.\nCollections can show either an individual search history or the web pages grouped together.",
+                        "systemImage": "wand.and.stars"
+                    }]
+                },
+                {
+                    "id": 6,
+                    "title": "Tags",
+                    "subtitle": "Tag your websites and find it easier.",
+                    "imageName": "tag",
+                    "color": 0,
+                    "supportPages": [{
+                        "id": 0,
+                        "title": "#Hashtag",
+                        "subtitle": "Web pages in Safari or links imported from third party applications can be tagged with one or more tags and are later discoverable under the tag. Tags can be found via list search, global search and via iOS Spotlight.\nTags can be grouped into folders.",
+                        "systemImage": "tag"
+                    },
+                        {
+                            "id": 1,
+                            "title": "Tag Action",
+                            "subtitle": "Tag Action provides the possibility to execute an action when a link of a tag is opened. An URL can be removed from a tag and/or another tag can be assigned.\nThis can be used to create a #Readme-Later function for example."
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "Statistics",
+                    "subtitle": "Have an overview of your browsing activities.",
+                    "imageName": "chart.line.uptrend.xyaxis",
+                    "imageName": "square.dashed",
+                    "color": 0,
+                    "supportPages": [{
+                        "id": 0,
+                        "title": "Sessions",
+                        "subtitle": "Each browsing activity is stored with start and end time. Thus, different statistics can be generated. For each accessed web page a detailed overview with time and duration can be viewed.\nTop Domains and Top Pages give an overview of popular web pages. Session Time shows which web pages have been visited the longest. Besides the sum of all days, a specific day can also be shown, by paging the date in the header of the list. Statistics view shows the sum of all activities for specific time periods. The day view is also available as a widget.",
+                        "systemImage": "square.dashed"
+                    }]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Additional Features",
+            "items": [
+                {
+                    "id": 9,
+                    "title": "Shortcuts",
+                    "subtitle": "Actions for tagging, searching and exporting.",
+                    "imageName": "square.2.stack.3d",
+                    "color": 0,
+                    "supportPages": [{
+                        "id": 0,
+                        "title": "Powerful Automation",
+                        "subtitle": "Shortcuts are a powerful tool to perform actions in the background. For this, Surfed does not need to be open. Surfed provides many actions to tag web pages, filter browsing history and export collections, tags, favourites and history.",
+                        "systemImage": "square.2.stack.3d"
+                    }]
+                },
+                {
+                    "id": 10,
+                    "title": "Reminders",
+                    "subtitle": "Set recurring or non-recurring reminders for Websites.",
+                    "imageName": "alarm",
+                    "color": 0,
+                    "supportPages": [{
+                        "id": 0,
+                        "title": "Get Reminded",
+                        "subtitle": "A reminder can be set for each web page. This can be recurring or not. A notification is displayed at the chosen time. When tapped, the web page is opened directly in the browser. Reminders are not only a good help for meeting links, but also to be reminded of a web page at a later time.",
+                        "systemImage": "alarm"
+                    }]
+                },
+                {
+                    "id": 11,
+                    "title": "Widgets",
+                    "subtitle": "Add a personal widget to your homescreen.",
+                    "imageName": "apps.iphone",
+                    "color": 0,
+                    "supportPages": [{
+                        "id": 0,
+                        "title": "Widgets",
+                        "subtitle": "Widgets give the possibility to get direct access to links and statistics directly on the homescreen.\nThe daily statistics shows how many websites have been visited today and how long the total time is.\nThe collection widget shows links to a selected list. Tapping on a link opens it directly in the browser.",
+                        "systemImage": "apps.iphone"
+                    }]
+                },
+                {
+                    "id": 18,
+                    "title": "Web Trigger",
+                    "subtitle": "Run automated actions when browsing websites in Safari.",
+                    "imageName": "arrow.uturn.up",
+                    "color": 0,
+                    "supportPages": [
+                        {
+                            "id": 0,
+                            "title": "Web Trigger",
+                            "subtitle": "Run Shortcuts, open app schemes, perform background URL requests, inject JavaScript code, show notifications, copy to clipboard – everything automatically when browsing websites in Safari.\nCheckout the gallery for easy to install pre-configured Web Triggers.\n\nA Web Trigger will be executed, if at least one trigger rule group matches the criterias. It can be used, to run URLs (in the background), open app schemes, run Shortcut actions, copy to clipboard, show notifications or run JavaScript on the current website. It is possible to pass paramters with related web site and history informations. There are a lot of parameters available. If a JSON dictionary will be appended the following keys are available: event, url, title, meta, date, interval, historyid, sessionid, device, visits.",
+                            "systemImage": "arrow.uturn.up"
+                        },
+                        {
+                            "id": 1,
+                            "title": "Actions",
+                            "subtitle": "**Shortcuts**\n\nOnly enter the shortcut name here, which should be executed.\nA JSON dictionary with all available keys will be automatically added. Shortcuts actions will prompt the user for confirmation before they are executed.\n\n**App Schemes**\n\nEnter a custom app scheme here.nPlease tap on \"Parameters\" to add custom values to the URL.\nApp schemes will prompt the user for confirmation before they are executed.\n\nA list of custom app schemes can be found here:\n[Custom App Schemes](https://medium.com/@contact.jmeyers/complete-list-of-ios-url-schemes-for-apple-apps-and-services-always-updated-800c64f450f)\n\n**Background URL-Requests**\n\nThe URL can be an HTTP or HTTPS address.\nPlease tap on \"Parameters\" to add custom values to the URL. Website URLs will run in the background.\n\nFor example\n https://maker.ifttt.com/trigger/{event}/with/key/webhooks_key?value1={{url}}\n\n**Copy to Clipboard**\n\nCopies the value to the system clipboard. You can add parameters, which will be replaced with the parameter content.\n\n**Show Notification**\n\nShows a notification banner with the value of the title and message. You can add parameters, which will be replaced with the parameter content.\n\n**JavaScript**\n\nPerform the given JavaScript code in the HTML document.\n\n**Custom Parameter**\n\nCreates a custom parameter, which can be used as placeholder in all actions. For example if you add a parameter with the name **color** and the value **red** all placeholders with the string **{{color}}** will be replaced with **red**."
+                        },
+                        {
+                            "id": 2,
+                            "title": "Advanced Options",
+                            "subtitle": "**Website Event**\n\nThe default website event is **Open**. This means the Web Trigger will be executed, when the website will be entered. Shortcuts and App Scheme actions can be only performed in **Open** event. All other actions are also working in these event types:\n\n**Background**\n\nWill be triggered, when Safari will be hidden.\n\n**Foreground**\n\nWill be triggered, when Safari become visible.\n\n**Leave**\n\nWill be triggered, when the website tab will be closed or the user navigates to another website.\n\n\n**Visited**\n\nIf **Visited** is set to **Customized** the Web Trigger can be configured to only be executed when the page visits matches the criteria."
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "title": "Messages",
+                    "subtitle": "Send a link directly from messages.",
+                    "imageName": "message",
+                    "color": 0,
+                    "supportPages": [{
+                        "id": 0,
+                        "title": "Send Links",
+                        "subtitle": "With the Surfed Extension for Messages.app, you can directly access and browse your browsing history and send the wanted link directly.",
+                        "systemImage": "message"
+                    }]
+                },
+                {
+                    "id": 13,
+                    "title": "Share Sheet",
+                    "subtitle": "Import Links from everywhere",
+                    "imageName": "square.and.arrow.up",
+                    "color": 0,
+                    "supportPages": [{
+                        "id": 0,
+                        "title": "Import Links",
+                        "subtitle": "Links can be imported from any application that offers a Share Sheet. After selecting Share, you need to tap the Surfed icon.\nNow you can optionally hash tag the link before importing or add it to a collection.\nYou can also use the Share Sheet in Safari as an alternative to the Surfed Safari Extension.",
+                        "systemImage": "square.and.arrow.up"
+                    }]
+                },
+                {
+                    "id": 14,
+                    "title": "Preview",
+                    "subtitle": "Swipe through your Websites collection.",
+                    "imageName": "play.rectangle",
+                    "color": 0,
+                    "supportPages": [{
+                        "id": 0,
+                        "title": "Preview Mode",
+                        "subtitle": "To view a collection of web pages, they can be displayed directly in Surfed's preview mode.\nBy swiping to the side, the next web page is displayed.\nIn a tag collection, interesting web pages can be marked with a flag or web pages that are no longer relevant can be removed directly.\nThe preview mode simplifies a distraction-free preview and selection of web page content.",
+                        "systemImage": "play.rectangle"
+                    }]
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "title": "In-App Purchase",
+            "items": [
+                {
+                    "id": 16,
+                    "title": "Unlock Pro Features",
+                    "subtitle": "Support development and use all features without limitations.",
+                    "imageName": "heart.fill",
+                    "color": 0,
+                    "supportPages": [
+                        {
+                            "id": 0,
+                            "title": "Get unlimited access",
+                            "subtitle": "Surfed can be used for free but some features are limited.\nHave a look at the following pages which features can be used after unlocking.",
+                            "systemImage": "heart"
+                        },
+                        {
+                            "id": 1,
+                            "title": "Use on iPhone, iPad and Mac",
+                            "subtitle": "Purchase or subscribe and use Surfed on any of your devices, including iPhone, iPad and Mac.\nTo restore, tap on \"Restore previous purchase\" button below, to unlock **Pro** Features again.",
+                            "systemImage": "laptopcomputer.and.iphone"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Password Protection",
+                            "subtitle": "Protect your browsing history and Surfed with your password. No one can see your browsing history, tags and collections.",
+                            "systemImage": "lock"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Unlimited Smart Collections",
+                            "subtitle": "Smart collections are powerful. You can create your own dynamic website collections or surfing histories to easly find and access your URLs.\nAfter unlocking you can create unlimited smart collections.",
+                            "systemImage": "wand.and.stars"
+                        },
+                        {
+                            "id": 4,
+                            "title": "Listen Articles",
+                            "subtitle": "Listen to articles instead of reading them. You can start this directly from Safari with a Web Trigger action or in Surfed from the article view.",
+                            "systemImage": "speaker.wave.3"
+                        },
+                        {
+                            "id": 5,
+                            "title": "Shortcuts Automation",
+                            "subtitle": "Use shortcut actions and automate Surfed in the background.\nSurfed will be delivered with a lot of powerful actions to handle your tasks in the background.",
+                            "systemImage": "square.2.stack.3d"
+                        },
+                        {
+                            "id": 6,
+                            "title": "Web Trigger",
+                            "subtitle": "Run Webhooks, Shortcuts or open apps automatically, when browsing websites in Safari.",
+                            "systemImage": "arrow.uturn.up"
+                        },
+                        {
+                            "id": 7,
+                            "title": "Blacklist",
+                            "subtitle": "Blacklist websites or domains which should not visible in the history or statistics.\n\nIt is your browsing history and privacy is important.",
+                            "systemImage": "xmark.shield"
+                        },
+                        {
+                            "id": 8,
+                            "title": "Widgets",
+                            "subtitle": "With widgets you can get statistics about your browsing activity or you can open tag and collection URLs directly from your homescreen.",
+                            "systemImage": "apps.iphone"
+                        },
+                        {
+                            "id": 9,
+                            "title": "Reminders",
+                            "subtitle": "Do not forget to open an link at the right time. This is very handy to open meeting links or schedule a link to a later time.\nReminders can be recurring or not.",
+                            "systemImage": "alarm"
+                        },
+                        {
+                            "id": 10,
+                            "title": "Statistics",
+                            "subtitle": "Have an overview of your browsing activities.",
+                            "systemImage": "chart.line.uptrend.xyaxis"
+                        },
+                        {
+                            "id": 11,
+                            "title": "Export",
+                            "subtitle": "Export all your tags, collections and favorites. This file can be imported on other devices to keep your tags, collections and favorites in sync.",
+                            "systemImage": "arrow.up.doc"
+                        },
+                        {
+                            "id": 12,
+                            "title": "Tag Action",
+                            "subtitle": "Tag Action provides the possibility to execute an action when a link of a tag is opened.",
+                            "systemImage": "wrench.and.screwdriver"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "faqSections": [{
+        "id": 0,
+        "title": "General Questions",
+        "hasDetailPage": true,
+        "items": [{
+            "id": 0,
+            "title": "Are keyboard shortcuts available?",
+            "text": "Yes! Most actions are available via keyboard shortcuts on the iPad. Long press the command key to get a list of available keyboard commands for the current selection. You can navigate between views with the Tap-Key."
+        }, {
+            "id": 1,
+            "title": "Can I deep link via URL-Scheme to a view?",
+            "text": "Sure! Deep links are available for all sidebar items:\n\nHistory:\t\tsurfed://history\nToday:\t\t\tsurfed://today\nFavorites:\t\tsurfed://favorite\nTop Pages:\t\tsurfed://statistic/sites\nTop Domains:\tsurfed://statistic/domains\nSession Time:\tsurfed://statistic/time\nReminders:\tsurfed://reminders\nSearch:\t\tsurfed://search/term\nCollection:\t\tsurfed://collection/#\nTag:\t\t\tsurfed://tag/#\n\n(Replace # with a collection or tag id,\nReplace term with your search term or leave it blank)"
+        }, {
+            "id": 2,
+            "title": "Can I search items via spotlight?",
+            "text": "Absolutely! Collections and Tags can be searched via the iOS spotlight search."
+        }, {
+            "id": 3,
+            "title": "Is it possible to export and import my library?",
+            "text": "Favorites and Tags with all assigned websites can be exported and imported with all meta information. You can use the import and export function to share items with other persons or to bring your library to an other device and keep it in sync."
+        }, {
+            "id": 4,
+            "title": "Are actions for an selected items available?",
+            "text": "Long press on an selected item will show you a context menu with available actions. List items have trailing and leading swipe actions. On the iPad all actions are available via keyboard shorcuts."
+        }, {
+            "id": 5,
+            "title": "Are there any search term shortcuts available?",
+            "text": "Here is a overview of the available search term shortcuts for global and list search:\n\nGeneral:\nterm\t\t\tSearch all (URL, title, meta description, date)\nu:term\t\t\tSearch URL for given term\nurl:term \t\tSearch URL for given term\nt:term\t\t\tSearch title for given term\ntitle:term\t\tSearch title for given term\nm:term\t\t\tSearch meta description for given term\nmeta:term\t\tSearch meta description for given term\n\nAll terms above can be negated with prefix **!**. Samples:\n!term\t\t\tURL, title, meta description contains not term\n!u:term\t\t\tURL contains not term\n\nDate:\nd:term\t\t\tDate with format dd.mm.yyyy (use % as placeholder eg: %.05.2022)\n:t\t\t\t\tToday\n:ld\t\t\t\tYesterday\n:w\t\t\t\tCurrent Week\n:lw\t\t\t\tLast Week\n:m\t\t\t\tCurrent Month\n:lm\t\t\t\tLast Month\n:y\t\t\t\tCurrent Year\n:ly\t\t\t\tLast Year\n\nStates:\n:f\t\t\t\tFlagged\n!:f\t\t\t\tNot Flagged\n:s\t\t\t\tFavorited\n!:s\t\t\t\tNot Favorited\n\nTypes:\n#\t\t\t\tTags only\n\nYou can use multiple search terms. Replace term with your search term filter."
+        }, {
+            "id": 6,
+            "title": "Is there a command line Interface (CLI) to search from the terminal on macOS?",
+            "text": "Yes, you can search your history, collections and tags right from the terminal, without opening the macOS app. Navigate to \"Surfed.app/Contents/MacOS/surfed-cli.app/Contents/MacOS\" and run \"./surfed-cli\" to get a help with all parameters."
+        }
+        ]
+    },
+        {
+            "id": 1,
+            "title": "Frequently Asked Questions",
+            "hasDetailPage": true,
+            "items": [{
+                    "id": 0,
+                    "title": "What about Privacy?",
+                    "text": "Browsing history is private and personal. All data is stored only on your device and cannot be viewed by anyone else, including us.\nSurfed does not collect analytics and diagnostic data."
+                },
+                {
+                        "id": 1,
+                        "title": "Is Surfed available on the Mac?",
+                        "text": "Yes, you can download Surfed for Mac here: https://apps.apple.com/us/app/surfed-verlauf-bookmark/id1591590700\n\nYour In-app purchase is also valid on Mac."
+                    }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Licenses",
+            "hasDetailPage": true,
+            "items": [{
+                    "id": 0,
+                    "title": "SQLite.swift",
+                    "text": "(The MIT License)\n\nCopyright (c) 2014-2015 Stephen Celis (<stephen@stephencelis.com>)\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+                },
+                {
+                        "id": 1,
+                        "title": "SwiftyStoreKit",
+                        "text": "Copyright (c) 2015-2016 Andrea Bizzotto bizz84@gmail.com\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+                    },
+                {
+                        "id": 2,
+                        "title": "TPInAppReceipt",
+                        "text": "MIT License\n\nCopyright (c) 2016-present Pavel Tikhoneko\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+                    },
+                {
+                        "id": 3,
+                        "title": "AsyncView",
+                        "text": "MIT License\n\nCopyright (c) 2021 Ralf Ebert\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+                    },
+                {
+                        "id": 4,
+                        "title": "KeychainSwift",
+                        "text": "The MIT License\n\nCopyright (c) 2015 - 2021 Evgenii Neumerzhitckii\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE."
+                    },
+                {
+                        "id": 5,
+                        "title": "SymbolPicker",
+                        "text": "MIT License\n\nCopyright (c) 2022 Yubo Qin & Lakr Aream\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+                    },
+                {
+                        "id": 6,
+                        "title": "OpenAI",
+                        "text": "MIT License\n\nCopyright (c) 2023 MacPaw Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+                    },
+                {
+                        "id": 7,
+                        "title": "readability",
+                        "text": "Copyright (c) 2010 Arc90 Inc\n\nLicensed under the Apache License, Version 2.0 (the \"License\");\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License at\n\n   http://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \"AS IS\" BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License."
+                    }
+            ]
+        }
+    ],
+    "contactSections": [{
+            "id": 0,
+            "title": "Get in touch",
+            "items": [{
+                "id": 0,
+                "title": "Surfed on Twitter",
+                "url": "https://www.twitter.com/surfedapp",
+                "imageName": "message.fill",
+                "color": 0
+            },
+                {
+                "id": 1,
+                "title": "Surfed on Mastodon",
+                "url": "https://indieapps.space/@Surfed",
+                "imageName": "message.fill",
+                "color": 0
+            },
+                {
+                    "id": 2,
+                    "title": "Contact us",
+                    "url": "mailto:support@surfed.app",
+                    "imageName": "envelope",
+                    "color": 0
+                }
+            ]
+        }
+    ],
+    "changelogItems": [
+    ]
+}
