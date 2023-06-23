@@ -540,4 +540,8 @@
 "Add New Tag…" = "Neuen Tag hinzufügen…";
 "This option is only available afer unlocking Pro Features." = "Diese Option ist erst nach der Freischaltung der Pro-Funktionen verfügbar.";
 "Tint view elements with the chosen collection or tag colour." = "Benutzeroberfläche mit der gewählten Kollektions- oder Tagfarbe einfärben.";
+"Add URL…" = "URL hinzufügen…";
+"Enter URL" = "URL eingeben";
+"URL not valid" = "URL ungültig";
+"Please enter a valid URL" = "Bitte geben Sie eine gültige URL ein";
 
