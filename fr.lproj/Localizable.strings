@@ -538,3 +538,7 @@
 "Add New Tag…" = "Ajouter un nouveau étiquette…";
 "This option is only available afer unlocking Pro Features." = "Cette option n'est disponible qu'après avoir débloqué les fonctionnalités Pro.";
 "Tint view elements with the chosen collection or tag colour." = "Teinter les éléments de la vue avec la couleur de la collection ou de l'étiquette choisie.";
+"Add URL…" = "Ajouter une URL…";
+"Enter URL" = "Entrez l'URL";
+"URL not valid" = "URL non valide";
+"Please enter a valid URL" = "Veuillez saisir une URL valide";
