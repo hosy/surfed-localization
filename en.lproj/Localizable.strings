@@ -540,3 +540,7 @@
 "Add New Tag…" = "Add New Tag…";
 "This option is only available afer unlocking Pro Features." = "This option is only available afer unlocking Pro Features.";
 "Tint view elements with the chosen collection or tag colour." = "Tint view elements with the chosen collection or tag colour.";
+"Add URL…" = "Add URL…";
+"Enter URL" = "Enter URL";
+"URL not valid" = "URL not valid";
+"Please enter a valid URL" = "Please enter a valid URL";
