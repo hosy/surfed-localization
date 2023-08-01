@@ -4,8 +4,8 @@
         "description": "The display name for the extension."
     },
     "extension_description": {
-        "message": "Surfed会记录你的历史。你的历史不会被分析或用于任何其他目的。",
-        "description": "Description of what the extension does."
+        "message": "Surfed 将会记录您的浏览历史，并保证不会分析它们，也不会用于别的目的。",
+        "description": "说明该 Safari 扩展的用途"
     },
     "favorite_site" : {
         "message" : "􀋂"
@@ -20,19 +20,19 @@
         "message" : "􀋊"
     },
     "tag_with" : {
-        "message" : "标记为#"
+        "message" : "新增标签 #"
     },
     "search_history" : {
-        "message" : "搜索历史"
+        "message" : "搜索浏览历史"
     },
     "search_favorites" : {
         "message" : "搜索收藏夹"
     },
     "tags" : {
-        "message" : "标签"
+        "message" : "标签列表"
     },
     "collections" : {
-        "message" : "收藏品"
+        "message" : "智能合集"
     },
     "new_tag" : {
         "message" : "输入新标签"
@@ -41,13 +41,13 @@
         "message" : "取消"
     },
     "add_tag" : {
-        "message" : "添加标签"
+        "message" : "新增标签"
     },
     "history" : {
-        "message" : "历史"
+        "message" : "浏览历史"
     },
     "favorites" : {
-        "message" : "收藏"
+        "message" : "收藏夹"
     },
     "unlock_header" : {
         "message" : "输入密码以解锁"
