@@ -200,8 +200,8 @@
 "Never" = "Never";
 "Daily" = "Daily";
 "Weekly" = "Weekly";
-"All 2 Weeks" = "All 2 Weeks";
-"All 3 Weeks" = "All 3 Weeks";
+"All 2 Weeks" = "Every 2 Weeks";
+"All 3 Weeks" = "Every 3 Weeks";
 "Monthly" = "Monthly";
 "URL Reminder" = "URL Reminder";
 "Choose reminder date" = "Choose reminder date";
