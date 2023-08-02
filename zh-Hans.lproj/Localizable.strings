@@ -60,7 +60,7 @@
 "List" = "列表";
 "Top Domains" = "最常访问域名";
 "Top Pages" = "最常访问页面";
-"Session Time" = "访问时长";
+"Session Time" = "会话时长";
 "Favorites" = "收藏夹";
 "Reminders" = "提醒事项";
 "Collections" = "智能合集";
@@ -398,7 +398,7 @@
 "Run Shortcuts, open app schemes, perform background URL requests, inject JavaScript code, show notifications, copy to clipboard – everything automatically when browsing websites in Safari.\n\nA Web Trigger will be executed, if at least one trigger rule group matches the criterias." = "运行快捷指令，打开 App URL Scheme，后台发送网络请求，注入 JavaScript 代码，发送通知，拷贝到剪贴板…… 一切都会在使用 Safari 浏览网页时自定执行。\n\n 当规则分组被匹配时，触发器就会执行。";
 "Total Time" = "总时长";
 "Total Visits" = "总访问数";
-"Session" = "片段";
+"Session" = "会话";
 "Advanced Options" = "高级选项";
 "Test" = "测试";
 "JavaScript Actions can only be tested in Safari" = "JavaScript 快捷操作仅能在 Safari 中测试";
