@@ -1,32 +1,32 @@
 {
     "headerItems": [{
             "id": 1,
-            "title": "设置Surfed\nSafari扩展",
+            "title": "设置 Surfed\nSafari 扩展",
             "imageName": "safari",
             "color": 0,
             "supportPages": [{
                     "id": 0,
-                    "title": "设置Safari浏览器扩展",
-                    "subtitle": "欢迎使用Surfed，你新的Safari历史和书签管理器和浏览统计工具。\n\n为了充分使用Surfed，你需要激活Safari扩展。",
+                    "title": "设置 Safari 扩展",
+                    "subtitle": "欢迎使用Surfed，这是一款强大的 Safari 历史和书签管理器，以及浏览统计工具。\n\n为了充分使用 Surfed，你需要激活 Safari 扩展。",
                     "localImage": "LargeIcon"
                 },
                 {
                     "id": 1,
-                    "title": "1. 通过Settings.app进行设置",
-                    "subtitle": "- 打开设置应用\n- 选择 Safari > 扩展程序 > Surfed\n- 激活 Surfed\n- 选择“所有网站”并激活“所有网站”。",
+                    "title": "1. 在系统系统设置中操作",
+                    "subtitle": "- 打开设置应用\n- 选择 Safari > 扩展程序 > Surfed\n- 激活 Surfed\n- 选择「所有网站」并激活「所有网站」。",
                     "videoURL": "https://hosy.github.io/surfed-support/images/en/Settings-Safari-Extensions.mp4"
                 },
                 {
                     "id": 2,
-                    "title": "2. 通过Safari浏览器设置",
-                    "subtitle": "- 打开 Safari\n- iPhone：点击阅读器按钮 > 扩展程序 > Surfed\niPad：点击拼图图标 > 管理扩展程序 > Surfed\n- 启用 Surfed\n- 点击 Surfed",
+                    "title": "2. 在 Safari 浏览器中操作",
+                    "subtitle": "- 打开 Safari\n- iPhone：点击阅读模式按钮 > 扩展程序 > Surfed\niPad：点击拼图图标 > 管理扩展程序 > Surfed\n- 启用 Surfed\n- 点击 Surfed",
                     "videoURL": "https://hosy.github.io/surfed-support/images/en/Safari-Extension.mp4"
                 }
             ]
         },
         {
         "id": 17,
-        "title": "最新信息",
+        "title": "更新记录",
         "imageName": "sparkles",
         "color": 1,
         "supportPages": [
@@ -64,77 +64,77 @@
     ],
     "highlightedSections": [{
             "id": 3,
-            "title": "主要特点",
+            "title": "主要功能",
             "items": [
                 {
                     "id": 4,
-                    "title": "历史",
-                    "subtitle": "你的Safari浏览器的浏览历史，具有强大的搜索功能。",
+                    "title": "浏览历史",
+                    "subtitle": "记录全部的 Safari 浏览历史，并支持全文搜索",
                     "imageName": "clock",
                     "color": 0,
                     "supportPages": [{
                         "id": 0,
                         "title": "浏览记录",
-                        "subtitle": "Surfed 将所有访问过的网站的浏览历史存储在 Safari 中。 要求是已为此授予所有权限。 这允许 Surfed 使用各种元数据搜索历史记录，从而更快、更准确地找到所需的网页。\n\n历史记录允许创建浏览活动的统计数据并获得所有会话的准确概览。",
+                        "subtitle": "在授予权限后， Surfed 将会记录所有 Safari 历史浏览记录。Surfed 还支持根据各种网页元数据搜索历史记录，从而更快、更准确地找到所需的网页。\n\n同时支持各种数据统计功能，可以让您纵览历史会话。",
                         "systemImage": "clock"
                     },
                         {
                             "id": 1,
                             "title": "黑名单",
-                            "subtitle": "不应该出现在历史、统计或搜索中的网站可以添加到黑名单中。 使用通配符和正则表达式，这些可以完全匹配。\n添加条目后，可以选择使用新条目清理现有历史记录。",
+                            "subtitle": "可以将特定网址或域名加入黑名单，它们将不会显示在历史记录中。支持通配符和正则表达式。\n添加新的黑名单后，可以使用新的黑名单规则清理历史记录。",
                             "systemImage": "xmark.shield"
                         },
                         {
                             "id": 2,
                             "title": "隐私",
-                            "subtitle": "浏览历史是私人的和个人的。 所有数据仅存储在您的设备上，其他任何人（包括我们）都无法查看。\nSurfaced 不收集分析和诊断数据。",
+                            "subtitle": "您的浏览记录仅保存在您的设备上，没有任何其他人可以查看。\nSurfaced 不收集分析和诊断数据。",
                             "systemImage": "lock.shield"
                         }
                     ]
                 },
                 {
                     "id": 5,
-                    "title": "收藏品",
-                    "subtitle": "从您的浏览历史记录或标签创建智能列表。",
+                    "title": "收藏",
+                    "subtitle": "为浏览记录添加标签，或创建合集",
                     "imageName": "wand.and.stars",
                     "color": 0,
                     "supportPages": [{
                         "id": 0,
-                        "title": "智能列表",
-                        "subtitle": "集合是使用搜索表达式查找所需网页的智能列表。\n设置很简单，可以包含无限数量的 AND/OR 关系。 对此有多种搜索字段。\n集合可以显示单个搜索历史记录或组合在一起的网页。",
+                        "title": "合集",
+                        "subtitle": "合集是根据各种过滤规则生成的智能列表。\n合集功能强大，并且配置并不复杂。可以包含无限数量的 AND/OR 关系。 还有有多种搜索字段。\n合集可以显示单个或多个搜索结果。",
                         "systemImage": "wand.and.stars"
                     }]
                 },
                 {
                     "id": 6,
                     "title": "标签",
-                    "subtitle": "标记您的网站并更轻松地找到它。",
+                    "subtitle": "标记历史记录",
                     "imageName": "tag",
                     "color": 0,
                     "supportPages": [{
                         "id": 0,
-                        "title": "#井号",
-                        "subtitle": "Safari 中的网页或从第三方应用程序导入的链接可以使用一个或多个标签进行标记，并且稍后可以在该标签下发现。 标签可以通过列表搜索、全局搜索和 iOS Spotlight 找到。\n标签可以分组到文件夹中.",
+                        "title": "#标签",
+                        "subtitle": "给网址或其他 App的 URL Scheme 增加标签，之后可以从标签列表查看他们。 标签支持列表搜索、全局搜索和 iOS Spotlight。\n标签可以分组到文件夹中.",
                         "systemImage": "tag"
                     },
                         {
                             "id": 1,
-                            "title": "标签动作",
-                            "subtitle": "标签操作提供了在打开标签的链接时执行操作的可能性。 可以从标签中删除 URL 和/或分配另一个标签。\n这可用于创建 #Readme-Later 函数等。"
+                            "title": "标签操作",
+                            "subtitle": "在打开标签包含的链接时可以自动执行操作，例如移除标签，或分配新的标签。\n这可用于创建 #Readme-Later 等场景。"
                         }
                     ]
                 },
                 {
                     "id": 7,
                     "title": "统计",
-                    "subtitle": "概览您的浏览活动。",
+                    "subtitle": "纵览您的浏览历史。",
                     "imageName": "chart.line.uptrend.xyaxis",
                     "imageName": "square.dashed",
                     "color": 0,
                     "supportPages": [{
                         "id": 0,
-                        "title": "届会",
-                        "subtitle": "每个浏览活动都与开始时间和结束时间一起存储。 因此，可以生成不同的统计数据。 对于每个访问的网页，可以查看包含时间和持续时间的详细概述。\n热门域和热门网页提供了流行网页的概述。 会话时间显示了哪些网页被访问的时间最长。 除了所有天数的总和外，还可以通过在列表标题中分页日期来显示特定天数。 统计数据视图显示特定时间段内所有活动的总和。 日视图也可用作小部件。",
+                        "title": "会话",
+                        "subtitle": "每个浏览会话的开始时间和结束时间都会被存储， 因此可以生成各种角度的统计数据。 对于每个访问的网页，可以查看包含时间和持续时间的详细描述。\n可以统计最常访问的域名与链接。 会话时间显示了哪些网页访问的时间最长。 可以按天自定义统计范围， 统计数据视图会显示特定时间段内所有活动数据。 同时支持桌面小组件",
                         "systemImage": "square.dashed"
                     }]
                 }
@@ -146,78 +146,78 @@
             "items": [
                 {
                     "id": 9,
-                    "title": "捷径",
-                    "subtitle": "用于标记、搜索和导出的操作。",
+                    "title": "快捷指令",
+                    "subtitle": "标记、搜索和导出",
                     "imageName": "square.2.stack.3d",
                     "color": 0,
                     "supportPages": [{
                         "id": 0,
                         "title": "强大的自动化功能",
-                        "subtitle": "快捷方式是在后台执行操作的强大工具。 为此，Surfed 不需要打开。 Surfed 提供了许多操作来标记网页、过滤浏览历史记录和导出集合、标签、收藏夹和历史记录。",
+                        "subtitle": "快捷指令是在后台执行操作的强大工具，无需打开 Surfed.  Surfed 还提供了许多操作来标记网页、过滤浏览历史记录和导出合集、标签、收藏夹和历史记录。",
                         "systemImage": "square.2.stack.3d"
                     }]
                 },
                 {
                     "id": 10,
                     "title": "提醒",
-                    "subtitle": "为网站设置重复或非重复提醒。",
+                    "subtitle": "为网站设置提醒",
                     "imageName": "alarm",
                     "color": 0,
                     "supportPages": [{
                         "id": 0,
-                        "title": "获得提醒",
-                        "subtitle": "可以为每个网页设置提醒。 这可以重复或不重复。 在所选时间显示通知。 轻按时，网页会直接在浏览器中打开。 提醒不仅对会议链接有很好的帮助，还可以在以后提醒网页。",
+                        "title": "创建提醒",
+                        "subtitle": "可以为每个网页设置提醒，支持重复提醒功能并发送通知，并通过通知打开网页。",
                         "systemImage": "alarm"
                     }]
                 },
                 {
                     "id": 11,
                     "title": "Widgets",
-                    "subtitle": "将个人小部件添加到您的主屏幕。",
+                    "subtitle": "添加桌面小组件",
                     "imageName": "apps.iphone",
                     "color": 0,
                     "supportPages": [{
                         "id": 0,
                         "title": "Widgets",
-                        "subtitle": "小部件可以直接在主屏幕上直接访问链接和统计信息。\n每日统计信息显示今天访问了多少网站以及总时间是多长时间。\n收集小部件显示指向所选列表的链接。 点击链接直接在浏览器中打开它。",
+                        "subtitle": "桌面小组建可以让您直接在主屏幕上直接访问链接和统计信息。\n每日统计今天访问了多少网站以及总浏览时间。\n合集小组件中会显示链接列表， 点击可以直接从桌面打开链接。",
                         "systemImage": "apps.iphone"
                     }]
                 },
                 {
                     "id": 18,
-                    "title": "Web Trigger",
-                    "subtitle": "Run Webhooks, Shortcuts or open apps automatically, when browsing websites in Safari.",
+                    "title": "网页触发器",
+                    "subtitle": "在浏览网页时自动运行快捷操作或快捷指令",
                     "imageName": "arrow.uturn.up",
                     "color": 0,
                     "supportPages": [
                         {
                             "id": 0,
-                            "title": "Web Trigger",
-                            "subtitle": "Run Shortcuts, open app schemes, perform background URL requests, inject JavaScript code, show notifications, copy to clipboard – everything automatically when browsing websites in Safari.\nCheckout the gallery for easy to install pre-configured Web Triggers.\n\nA Web Trigger will be executed, if at least one trigger rule group matches the criterias. It can be used, to run URLs (in the background), open app schemes, run Shortcut actions, copy to clipboard, show notifications or run JavaScript on the current website. It is possible to pass paramters with related web site and history informations. There are a lot of parameters available. If a JSON dictionary will be appended the following keys are available: event, url, title, meta, date, interval, historyid, sessionid, device, visits.",
+                            "title": "网页触发器",
+                            "subtitle": "运行快捷指令，打开 URL Scheme，发送网络请求，注入 JavaScript 代码, 发送通知, 拷贝到剪贴板…… 一切都会在您浏览网页时自动执行。\n您可以通过网页触发器中心安装其他用户分享的网页触发器。\n\n当设置的规则被匹配到时，快捷操作会被执行。快捷操作内容包含后台打开链接、打开其他 app 的 URL Scheme、运行快捷指令、拷贝到剪贴板、发送通知，或在当前页面上运行 JavaScript 代码。同时还支持传入自定义参数，参数可以从相关的历史浏览记录中获取。支持的参数包含 event, url, title, meta, date, interval, historyid, sessionid, device, visits 等等。",
                             "systemImage": "arrow.uturn.up"
                         },
                         {
                             "id": 1,
-                            "title": "Actions",
-                            "subtitle": "**Shortcuts**\n\nOnly enter the shortcut name here, which should be executed.\nA JSON dictionary with all available keys will be automatically added. Shortcuts actions will prompt the user for confirmation before they are executed.\n\n**App Schemes**\n\nEnter a custom app scheme here.nPlease tap on \"Parameters\" to add custom values to the URL.\nApp schemes will prompt the user for confirmation before they are executed.\n\nA list of custom app schemes can be found here:\n[Custom App Schemes](https://medium.com/@contact.jmeyers/complete-list-of-ios-url-schemes-for-apple-apps-and-services-always-updated-800c64f450f)\n\n**Background URL-Requests**\n\nThe URL can be an HTTP or HTTPS address.\nPlease tap on \"Parameters\" to add custom values to the URL. Website URLs will run in the background.\n\nFor example\n https://maker.ifttt.com/trigger/{event}/with/key/webhooks_key?value1={{url}}\n\n**Copy to Clipboard**\n\nCopies the value to the system clipboard. You can add parameters, which will be replaced with the parameter content.\n\n**Show Notification**\n\nShows a notification banner with the value of the title and message. You can add parameters, which will be replaced with the parameter content.\n\n**JavaScript**\n\nPerform the given JavaScript code in the HTML document.\n\n**Custom Parameter**\n\nCreates a custom parameter, which can be used as placeholder in all actions. For example if you add a parameter with the name **color** and the value **red** all placeholders with the string **{{color}}** will be replaced with **red**."
+                            "title": "快捷操作",
+                            "subtitle": "**快捷指令**\n\n仅需输入执行的快捷指令名称\nA JSON dictionary with all available keys will be automatically added. Shortcuts actions will prompt the user for confirmation before they are executed.\n\n**App Schemes**\n\nEnter a custom app scheme here.nPlease tap on \"Parameters\" to add custom values to the URL.\nApp schemes will prompt the user for confirmation before they are executed.\n\nA list of custom app schemes can be found here:\n[Custom App Schemes](https://medium.com/@contact.jmeyers/complete-list-of-ios-url-schemes-for-apple-apps-and-services-always-updated-800c64f450f)\n\n**Background URL-Requests**\n\nThe URL can be an HTTP or HTTPS address.\nPlease tap on \"Parameters\" to add custom values to the URL. Website URLs will run in the background.\n\nFor example\n https://maker.ifttt.com/trigger/{event}/with/key/webhooks_key?value1={{url}}\n\n**Copy to Clipboard**\n\nCopies the value to the system clipboard. You can add parameters, which will be replaced with the parameter content.\n\n**Show Notification**\n\nShows a notification banner with the value of the title and message. You can add parameters, which will be replaced with the parameter content.\n\n**JavaScript**\n\nPerform the given JavaScript code in the HTML document.\n\n**Custom Parameter**\n\nCreates a custom parameter, which can be used as placeholder in all actions. For example if you add a parameter with the name **color** and the value **red** all placeholders with the string **{{color}}** will be replaced with **red**."
                         },
                         {
                             "id": 2,
-                            "title": "Advanced Options",
-                            "subtitle": "**Website Event**\n\nThe default website event is **Open**. This means the Web Trigger will be executed, when the website will be entered. Shortcuts and App Scheme actions can be only performed in **Open** event. All other actions are also working in these event types:\n\n**Background**\n\nWill be triggered, when Safari will be hidden.\n\n**Foreground**\n\nWill be triggered, when Safari become visible.\n\n**Leave**\n\nWill be triggered, when the website tab will be closed or the user navigates to another website.\n\n\n**Visited**\n\nIf **Visited** is set to **Customized** the Web Trigger can be configured to only be executed when the page visits matches the criteria."
+                            "title": "高级选项",
+                            "subtitle": "**网站事件**\n\n默认的网站事件时 **Open**. 网页触发器将会在收到该事件后运行，然后再打开网页。 也可以在收到该事件后运行快捷指令或打开 URL Scheme.还支持下列事件：\n\n**Background**\n\n在 Safari 切到后台时触发\n\n**Foreground**\n\n在 Safari 切到前台时触发\n\n**Leave**\n\n在用户关闭标签页或切换到其他标签页时触发\n\n\n**Visited**\n\n如果 **Visited** 设置为 **Customized**，网页触发器仅会在匹配设置的触发条件时运行。"
                         }
                     ]
                 },
                 {
                     "id": 12,
-                    "title": "消息",
-                    "subtitle": "直接从消息中发送链接。",
+                    "title": "信息",
+                    "subtitle": "直接从信息 App 中发送链接。",
                     "imageName": "message",
                     "color": 0,
                     "supportPages": [{
                         "id": 0,
-                        "title": "提交链接",
-                        "subtitle": "使用 Messages.app 的 Surfed 扩展程序，您可以直接访问和浏览您的浏览历史记录并直接发送想要的链接。",
+                        "title": "发送链接",
+                        "subtitle": "使用信息 App 的 Surfed 扩展，您可以直接访问和浏览您的浏览历史记录并直接发送链接。",
                         "systemImage": "message"
                     }]
                 },
@@ -230,20 +230,20 @@
                     "supportPages": [{
                         "id": 0,
                         "title": "导入链接",
-                        "subtitle": "可以从任何提供共享表的应用程序中导入链接。 选择共享后，您需要点击 Surfed 图标。\n现在，您可以选择在导入之前为链接添加标签或将其添加到收藏夹中。\n您还可以使用 Safari 中的共享表作为 Surfed Safari 扩展程序的替代方案。",
+                        "subtitle": "可以从任何提供共享菜单的应用程序中导入链接。 选择共享后，您需要点击 Surfed 图标。\n现在，您可以选择在导入之前为链接添加标签或将其添加到收藏夹中。\n您还可以使用 Safari 中的共享菜单作为 Surfed Safari 扩展程序的替代方案。",
                         "systemImage": "square.and.arrow.up"
                     }]
                 },
                 {
                     "id": 14,
-                    "title": "预习",
-                    "subtitle": "轻扫您的网站收藏。",
+                    "title": "预览",
+                    "subtitle": "预览您的网站收藏。",
                     "imageName": "play.rectangle",
                     "color": 0,
                     "supportPages": [{
                         "id": 0,
                         "title": "预览模式",
-                        "subtitle": "要查看网页集合，可以直接在 Surfed 的预览模式下显示。\n通过向侧面滑动，显示下一个网页。\n在标签集合中，可以用旗帜标记感兴趣的网页或网页不再相关的内容可以直接删除。\n预览模式简化了网页内容的无干扰预览和选择。",
+                        "subtitle": "要查看网页集合，可以直接在 Surfed 的预览模式下显示。\n通过滑动手势显示下一个网页。\n在标签集合中，可以用给感兴趣的网页增加旗标，或直接删除条目。\n预览模式可以让您不受干扰地预览网页。",
                         "systemImage": "play.rectangle"
                     }]
                 }
@@ -256,44 +256,44 @@
                 {
                     "id": 16,
                     "title": "解锁专业版功能",
-                    "subtitle": "使用所有功能，不受限制。",
+                    "subtitle": "使用所有功能",
                     "imageName": "heart.fill",
                     "color": 0,
                     "supportPages": [
                         {
                             "id": 0,
-                            "title": "获得无限制访问",
-                            "subtitle": "Surfed可免费使用，但部分功能受限。\n请查看以下页面，解锁后可以使用哪些功能。",
+                            "title": "无限制访问",
+                            "subtitle": "Surfed可免费使用，但部分功能受限。\n请在下个页面中查看全部功能列表。",
                             "systemImage": "heart"
                         },
                         {
                             "id": 1,
                             "title": "在 iPhone、iPad 和 Mac 上使用",
-                            "subtitle": "在您的任何设备上购买或订阅和使用 Surfed，包括 iPhone、iPad 和 Mac。\n要恢复，请点击下面的“恢复以前的购买”按钮，再次解锁 **Pro** 功能。",
+                            "subtitle": "在您的任何设备上购买或订阅和使用 Surfed，包括 iPhone、iPad 和 Mac。\n要恢复，请点击下面的“恢复以前的购买”按钮，再次解锁 **专业版** 功能。",
                             "systemImage": "laptopcomputer.and.iphone"
                         },
                         {
                             "id": 2,
                             "title": "密码保护",
-                            "subtitle": "使用密码保护您的浏览历史记录。 没有人可以看到您的浏览历史、标签和收藏。",
+                            "subtitle": "使用密码保护您的浏览历史记录。 没有其他人可以看到您的浏览历史、标签和收藏。",
                             "systemImage": "lock"
                         },
                         {
                             "id": 3,
-                            "title": "无限制的智能收藏",
-                            "subtitle": "智能收藏功能强大。 您可以创建自己的动态网站收藏或浏览历史记录，以便轻松查找和访问您的 URL。\n购买后，您可以创建无限的智能收藏。",
+                            "title": "无限制的智能合集",
+                            "subtitle": "智能合集功能强大。 您可以创建自己的动态网站收藏或浏览历史记录，以便轻松查找和访问您的 URL。\n购买后，您可以创建无限的智能合集。",
                             "systemImage": "wand.and.stars"
                         },
                         {
                             "id": 4,
-                            "title": "Listen Articles",
-                            "subtitle": "Listen to articles instead of reading them. You can start this directly from Safari with a Web Trigger action or in Surfed from the article view.",
+                            "title": "朗读文章",
+                            "subtitle": "不想阅读文字？那就让 Sufed 朗读文章。您可以通过 Surfed 网页触发器，在浏览网页时直接开始朗读。",
                             "systemImage": "speaker.wave.3"
                         },
                         {
                             "id": 5,
-                            "title": "捷径自动化",
-                            "subtitle": "使用快捷操作并在后台自动化 Surfed。\nSurfed 将提供许多强大的操作来在后台处理您的任务。",
+                            "title": "快捷指令自动化",
+                            "subtitle": "使用快捷指令在后台自动化 Surfed。\nSurfed 将提供许多强大的快捷指令操作来在后台处理您的任务。",
                             "systemImage": "square.2.stack.3d"
                         },
                         {
@@ -304,32 +304,32 @@
                         },
                         {
                             "id": 7,
-                            "title": "Widgets",
-                            "subtitle": "使用小部件，您可以获得有关浏览活动的统计信息，或者您可以直接从主屏幕打开标签和收藏 URL.",
+                            "title": "桌面小组件",
+                            "subtitle": "使用小组件，您可以获得有关浏览活动的统计信息，或者您可以直接从主屏幕打开标签和收藏的 URL.",
                             "systemImage": "apps.iphone"
                         },
                         {
                             "id": 8,
-                            "title": "回忆",
-                            "subtitle": "不要忘记在正确的时间打开链接。 这对于打开会议链接或安排稍后的链接非常方便。\n提醒可以重复或不重复。",
+                            "title": "提醒",
+                            "subtitle": "不要忘记在应该的时间打开链接。 这对于打开会议链接或安排稍后的链接非常方便。\n提醒可以重复或不重复。",
                             "systemImage": "alarm"
                         },
                         {
                             "id": 9,
                             "title": "统计",
-                            "subtitle": "概览您的浏览活动。",
+                            "subtitle": "概览您的浏览活动历史。",
                             "systemImage": "chart.line.uptrend.xyaxis"
                         },
                         {
                             "id": 10,
-                            "title": "出口",
-                            "subtitle": "导出所有标签、收藏和收藏夹。 此文件可以导入到其他设备上，以使您的标签、收藏和收藏夹保持同步。",
+                            "title": "导出",
+                            "subtitle": "导出所有标签、收藏和收藏夹。 此文件可以导入到其他设备上，以使您的标签、合集和收藏夹保持同步。",
                             "systemImage": "arrow.up.doc"
                         },
                         {
                             "id": 11,
-                            "title": "标签动作",
-                            "subtitle": "Tag Action 提供了在打开标签的链接时执行操作的可能性。",
+                            "title": "标签操作",
+                            "subtitle": "在打开有标签的链接时，可以自动执行操作。",
                             "systemImage": "wrench.and.screwdriver"
                         }
                     ]
@@ -339,47 +339,47 @@
     ],
     "faqSections": [{
         "id": 0,
-        "title": "一般的问题",
+        "title": "FAQ",
         "hasDetailPage": true,
         "items": [{
             "id": 0,
-            "title": "键盘快捷键可用吗？",
+            "title": "是否支持键盘快捷键？",
             "text": "是的！ 大多数操作都可以通过 iPad 上的键盘快捷键来执行。 长按命令键以获取当前选择的可用键盘命令列表。 您可以使用 Tap 键在视图之间导航。"
         }, {
             "id": 1,
-            "title": "我可以通过 URL 方案深层链接到视图吗？",
-            "text": "当然！ 深层链接可用于所有侧边栏项：\n\nHistory:\t\tsurfed://history\nToday:\t\t\tsurfed://today\nFavorites:\t\tsurfed://favorite\nTop Pages:\t\tsurfed://statistic/sites\nTop Domains:\tsurfed://statistic/domains\nSession Time:\tsurfed://statistic/time\nReminders:\tsurfed://reminders\nSearch:\t\tsurfed://search/term\nCollection:\t\tsurfed://collection/#\nTag:\t\t\tsurfed://tag/#\n\n（将 # 替换为集合或标签 ID，\n将 term 替换为您的搜索词或将其留空）"
+            "title": "是否支持 URL Scheme Deep Link？",
+            "text": "当然！ 深层链接可用于 Surfed 侧边栏中的所有项目：\n\n历史记录:\t\tsurfed://history\n今日:\t\t\tsurfed://today\n收藏夹:\t\tsurfed://favorite\n最常访问页面:\t\tsurfed://statistic/sites\n最常访问域名:\tsurfed://statistic/domains\n会话时长:\tsurfed://statistic/time\n提醒:\tsurfed://reminders\n搜索:\t\tsurfed://search/term\n合集:\t\tsurfed://collection/#\n标签:\t\t\tsurfed://tag/#\n\n（将 # 替换为集合或标签 ID，\n将 term 替换为您的搜索词或将其留空）"
         }, {
             "id": 2,
             "title": "我可以通过 Spotlight 搜索项目吗？",
-            "text": "绝对地！ 可以通过 iOS 聚焦搜索来搜索集合和标签。"
+            "text": "当然！ 可以通过 iOS Spotlight 搜索合集和标签。"
         }, {
             "id": 3,
             "title": "是否可以导出和导入我的库？",
-            "text": "带有所有指定网站的收藏夹和标签可以与所有元信息一起导出和导入。 您可以使用导入和导出功能与其他人共享项目或将您的图书馆带到其他设备并保持同步。"
+            "text": "带有所有指定网站的收藏夹和标签可以与所有元信息一起导出和导入。 您可以使用导入和导出功能与其他人共享项目，或与其他设备并保持同步。"
         }, {
             "id": 4,
-            "title": "所选项目的操作是否可用？",
-            "text": "长按所选项目将显示一个包含可用操作的上下文菜单。 列表项具有尾随和前导滑动操作。 在 iPad 上，所有操作都可以通过键盘快捷键进行。"
+            "title": "是否可以对所选项目进行操作？",
+            "text": "长按所选项目将显示一个包含可用操作的上下文菜单。 列表项支持滑动操作。 在 iPad 上，所有操作都可以通过键盘快捷键进行。"
         }, {
             "id": 5,
             "title": "是否有可用的搜索词快捷方式？",
             "text": "以下是全局和列表搜索的可用搜索词快捷方式的概述：\n\nGeneral:\nterm\t\t\tSearch all (URL, title, meta description, date)\nu:term\t\t\tSearch URL for given term\nurl:term \t\tSearch URL for given term\nt:term\t\t\tSearch title for given term\ntitle:term\t\tSearch title for given term\nm:term\t\t\tSearch meta description for given term\nmeta:term\t\tSearch meta description for given term\n\nAll terms above can be negated with prefix **!**. Samples:\n!term\t\t\tURL, title, meta description contains not term\n!u:term\t\t\tURL contains not term\n\nDate:\nd:term\t\t\tDate with format dd.mm.yyyy (use % as placeholder eg: %.05.2022)\n:t\t\t\t\tToday\n:ld\t\t\t\tYesterday\n:w\t\t\t\tCurrent Week\n:lw\t\t\t\tLast Week\n:m\t\t\t\tCurrent Month\n:lm\t\t\t\tLast Month\n:y\t\t\t\tCurrent Year\n:ly\t\t\t\tLast Year\n\nStates:\n:f\t\t\t\tFlagged\n!:f\t\t\t\tNot Flagged\n:s\t\t\t\tFavorited\n!:s\t\t\t\tNot Favorited\n\nTypes:\n#\t\t\t\tTags only\n\n您可以使用多个搜索词。 用您的搜索词过滤器替换词条。"
         }, {
             "id": 6,
-            "title": "Is there a command line Interface (CLI) to search from the terminal on macOS?",
-            "text": "Yes, you can search your history, collections and tags right from the terminal, without opening the macOS app. Navigate to \"Surfed.app/Contents/MacOS/surfed-cli.app/Contents/MacOS\" and run \"./surfed-cli\" to get a help with all parameters."
+            "title": "在 macOS 上是否有可用的命令行工具？",
+            "text": "是的！您可以通过命令行搜索浏览记录、合集与标签，无需打开 Surfed app. 命令行工具位于 \"Surfed.app/Contents/MacOS/surfed-cli.app/Contents/MacOS\" 内，运行 \"./surfed-cli\" 来获取使用帮助。"
         }
         ]
     },
         {
             "id": 1,
-            "title": "经常问的问题",
+            "title": "FAQ",
             "hasDetailPage": true,
             "items": [{
                     "id": 0,
-                    "title": "隐私呢？",
-                    "text": "浏览历史是私人的和个人的。 所有数据仅存储在您的设备上，其他任何人（包括我们）都无法查看。\nSurfaced 不收集分析和诊断数据。"
+                    "title": "关于个人隐私",
+                    "text": "您的所有浏览历史数据仅存储在您的设备上，其他任何人都无法查看。\nSurfaced 不收集分析和诊断数据。"
                 },
                 {
                         "id": 1,
@@ -440,14 +440,14 @@
             "title": "取得联系",
             "items": [{
                     "id": 0,
-                    "title": "Surfed 在推特上",
+                    "title": "Twitter",
                     "url": "https://www.twitter.com/surfedapp",
                     "imageName": "message.fill",
                     "color": 0
                 },
                 {
                 "id": 1,
-                "title": "Surfed on Mastodon",
+                "title": "Mastodon",
                 "url": "https://indieapps.space/@Surfed",
                 "imageName": "message.fill",
                 "color": 0
