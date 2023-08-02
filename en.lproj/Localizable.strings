@@ -337,7 +337,7 @@
 "Edit Web Trigger" = "Edit Web Trigger";
 "Add Web Trigger" = "Add Web Trigger";
 "Trigger Rules" = "Trigger Rules";
-"This URL will be called if at least one trigger rules group is true.\n\nThe URL can be an HTTP or HTTPS address, or an app scheme URL like \"shortcuts://\".\nThe following website parameters can be added to the action URL:\n{url}, {title}, {meta}, {json}, {url.noscheme}, {url.scheme}, {url.host}, {url.path}, {url.lastpathcomponent}, {url.pathExtension}, {url.query}.\nIf no parameter is added, a JSON dictionary with all available keys will be automatically added. Website URLs will run in the background, while app schemes will prompt the user for confirmation before they are executed.\n\nFor example, \"https://maker.ifttt.com/trigger/{event}/with/key/webhooks_key?value1={{url}}\" or\n \"shortcuts://run-shortcut?name=Shortcut\" or\n \"mailto:?subject={title}&body={meta}\"" = "This URL will be called if at least one trigger rules group is true.\n\nThe URL can be an HTTP or HTTPS address, or an app scheme URL like \"shortcuts://\".\nThe following website parameters can be added to the action URL:\n{url}, {title}, {meta}, {json}, {url.noscheme}, {url.scheme}, {url.host}, {url.path}, {url.lastpathcomponent}, {url.pathExtension}, {url.query}.\nIf no parameter is added, a JSON dictionary with all available keys will be automatically added. Website URLs will run in the background, while app schemes will prompt the user for confirmation before they are executed.\n\nFor example, \"https://maker.ifttt.com/trigger/{event}/with/key/webhooks_key?value1={{url}}\" or\n \"shortcuts://run-shortcut?name=Shortcut\" or\n \"mailto:?subject={title}&body={meta}\"";
+"This URL will be called if at least one trigger rules group is true.\n\nThe URL can be an HTTP or HTTPS address, or an app scheme URL like \"shortcuts://\".\nThe following website parameters can be added to the action URL:\n{url}, {title}, {meta}, {json}, {url.noscheme}, {url.scheme}, {url.host}, {url.path}, {url.lastpathcomponent}, {url.pathExtension}, {url.query}.\nIf no parameter is added, a JSON dictionary with all available keys will be automatically added. Website URLs will run in the background, while app schemes will prompt the user for confirmation before they are executed.\n\nFor example, \"https://maker.ifttt.com/trigger/{event}/with/key/webhooks_key?value1={{url}}\" or\n \"shortcuts://run-shortcut?name=Shortcut\" or\n \"mailto:?subject={title}&body={meta}\"" = "TThis URL will be called when at least one trigger rule group is matched.\n\nThe URL can be an HTTP or HTTPS address, or an app scheme URL like \"shortcuts://\".\nThe following website parameters can be added to the action URL:\n{url}, {title}, {meta}, {json}, {url.noscheme}, {url.scheme}, {url.host}, {url.path}, {url.lastpathcomponent}, {url.pathExtension}, {url.query}.\nIf no parameter is added, a JSON dictionary with all available keys will be automatically added. Website URLs will run in the background, while app schemes will prompt the user for confirmation before they are executed.\n\nFor example, \"https://maker.ifttt.com/trigger/{event}/with/key/webhooks_key?value1={{url}}\" or\n \"shortcuts://run-shortcut?name=Shortcut\" or\n \"mailto:?subject={title}&body={meta}\"";
 "Action URL" = "Action URL";
 "https://… or shortcuts://…" = "https://… or shortcuts://…";
 "On this day" = "On this day";
@@ -385,7 +385,7 @@
 "Value" = "Value";
 "JavaScript Code" = "JavaScript Code";
 "Parameter Name" = "Parameter Name";
-"Message" = "Message";
+"Message" = "News";
 "Parameter Value" = "Parameter Value";
 "Only enter the shortcut name here, which should be executed.\nA JSON dictionary with all available keys will be automatically added. Shortcuts actions will prompt the user for confirmation before they are executed." = "Only enter the shortcut name here, which should be executed.\nA JSON dictionary with all available keys will be automatically added. Shortcuts actions will prompt the user for confirmation before they are executed.";
 "Enter a custom app scheme here.nPlease tap on \"Parameters\" to add custom values to the URL.\nApp schemes will prompt the user for confirmation before they are executed.\n\nA list of custom app schemes can be found here:\n[Custom App Schemes](https://medium.com/@contact.jmeyers/complete-list-of-ios-url-schemes-for-apple-apps-and-services-always-updated-800c64f450f)" = "Enter a custom app scheme here.nPlease tap on \"Parameters\" to add custom values to the URL.\nApp schemes will prompt the user for confirmation before they are executed.\n\nA list of custom app schemes can be found here:\n[Custom App Schemes](https://medium.com/@contact.jmeyers/complete-list-of-ios-url-schemes-for-apple-apps-and-services-always-updated-800c64f450f)";
@@ -461,7 +461,7 @@
 "Secondary" = "Secondary";
 "Select Item" = "Select Item";
 "In-App Browser" = "In-App Browser";
-"Open in Reader" = "Open in Reader";
+"Open in Reader" = "Reader Mode";
 "Open in Reader Mode" = "Open in Reader Mode";
 "Actions" = "Actions";
 "Comment" = "Comment";
