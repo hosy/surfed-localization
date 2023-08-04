@@ -33,7 +33,7 @@
                 {
                   "id": 151,
                   "title": "Version 1.5.1",
-                  "subtitle": ""
+                  "subtitle": "**Neu:*\n• Datum-Suchbegriff \"Aktueller Tag\" hinzugefügt \n\n**Fix:*\n• Datum-Suchbegriff \"Aktueller Monat\" war fehlerhaft\n• Schaltfläche \"Hinzufügen\" unter Suchbegriffe war fehlerhaft\n• Aktualisierte Chinesische Übersetzung von zshbleaker"
                 },
                 {
                   "id": 150,

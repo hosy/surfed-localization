@@ -33,7 +33,7 @@
             {
               "id": 151,
               "title": "Version 1.5.1",
-              "subtitle": ""
+              "subtitle": "**New:*\n• added date search term \"current day\"\n\n**Fix:*\n• fixed date search term \"current month\"\n• fixed add button in terms section\n• updated Chinese translation by zshbleaker"
             },
             {
               "id": 150,
