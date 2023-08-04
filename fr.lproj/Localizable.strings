@@ -532,7 +532,7 @@
 "App Badge" = "Badge de l'application";
 "Added: %@" = "Ajouté: %@";
 "List Colouring" = "Coloration de liste";
-"App Tint" = "Teinte de l'App";
+"Accent Color" = "Couleur d'accent";
 "Filter Tags by usage" = "Filtrer les étiquettes par utilisation";
 "Assigned" = "Assigné";
 "Add New Tag…" = "Ajouter un nouveau étiquette…";
@@ -542,3 +542,10 @@
 "Enter URL" = "Entrez l'URL";
 "URL not valid" = "URL non valide";
 "Please enter a valid URL" = "Veuillez saisir une URL valide";
+"Current Day" = "La journée en cours";
+"Error while loading gallery" = "Erreur lors du chargement de la galerie";
+"Symbol" = "Symbole";
+"QR Code" = "Code QR";
+"App Icon" = "App Icon";
+"No reminders added" = "No reminders added";
+"Select an URL and choose \"Reminder\" from the context menu.\nYou can also add a reminder in the Surfed share sheet." = "Select an URL and choose \"Reminder\" from the context menu.\nYou can also add a reminder in the Surfed share sheet.";

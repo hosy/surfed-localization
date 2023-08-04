@@ -337,7 +337,7 @@
 "Edit Web Trigger" = "Edit Web Trigger";
 "Add Web Trigger" = "Add Web Trigger";
 "Trigger Rules" = "Trigger Rules";
-"This URL will be called if at least one trigger rules group is true.\n\nThe URL can be an HTTP or HTTPS address, or an app scheme URL like \"shortcuts://\".\nThe following website parameters can be added to the action URL:\n{url}, {title}, {meta}, {json}, {url.noscheme}, {url.scheme}, {url.host}, {url.path}, {url.lastpathcomponent}, {url.pathExtension}, {url.query}.\nIf no parameter is added, a JSON dictionary with all available keys will be automatically added. Website URLs will run in the background, while app schemes will prompt the user for confirmation before they are executed.\n\nFor example, \"https://maker.ifttt.com/trigger/{event}/with/key/webhooks_key?value1={{url}}\" or\n \"shortcuts://run-shortcut?name=Shortcut\" or\n \"mailto:?subject={title}&body={meta}\"" = "TThis URL will be called when at least one trigger rule group is matched.\n\nThe URL can be an HTTP or HTTPS address, or an app scheme URL like \"shortcuts://\".\nThe following website parameters can be added to the action URL:\n{url}, {title}, {meta}, {json}, {url.noscheme}, {url.scheme}, {url.host}, {url.path}, {url.lastpathcomponent}, {url.pathExtension}, {url.query}.\nIf no parameter is added, a JSON dictionary with all available keys will be automatically added. Website URLs will run in the background, while app schemes will prompt the user for confirmation before they are executed.\n\nFor example, \"https://maker.ifttt.com/trigger/{event}/with/key/webhooks_key?value1={{url}}\" or\n \"shortcuts://run-shortcut?name=Shortcut\" or\n \"mailto:?subject={title}&body={meta}\"";
+"This URL will be called if at least one trigger rules group is true.\n\nThe URL can be an HTTP or HTTPS address, or an app scheme URL like \"shortcuts://\".\nThe following website parameters can be added to the action URL:\n{url}, {title}, {meta}, {json}, {url.noscheme}, {url.scheme}, {url.host}, {url.path}, {url.lastpathcomponent}, {url.pathExtension}, {url.query}.\nIf no parameter is added, a JSON dictionary with all available keys will be automatically added. Website URLs will run in the background, while app schemes will prompt the user for confirmation before they are executed.\n\nFor example, \"https://maker.ifttt.com/trigger/{event}/with/key/webhooks_key?value1={{url}}\" or\n \"shortcuts://run-shortcut?name=Shortcut\" or\n \"mailto:?subject={title}&body={meta}\"" = "This URL will be called when at least one trigger rule group is matched.\n\nThe URL can be an HTTP or HTTPS address, or an app scheme URL like \"shortcuts://\".\nThe following website parameters can be added to the action URL:\n{url}, {title}, {meta}, {json}, {url.noscheme}, {url.scheme}, {url.host}, {url.path}, {url.lastpathcomponent}, {url.pathExtension}, {url.query}.\nIf no parameter is added, a JSON dictionary with all available keys will be automatically added. Website URLs will run in the background, while app schemes will prompt the user for confirmation before they are executed.\n\nFor example, \"https://maker.ifttt.com/trigger/{event}/with/key/webhooks_key?value1={{url}}\" or\n \"shortcuts://run-shortcut?name=Shortcut\" or\n \"mailto:?subject={title}&body={meta}\"";
 "Action URL" = "Action URL";
 "https://… or shortcuts://…" = "https://… or shortcuts://…";
 "On this day" = "On this day";
@@ -534,7 +534,7 @@
 "App Badge" = "App Badge";
 "Added: %@" = "Added: %@";
 "List Colouring" = "List Colouring";
-"App Tint" = "App Tint";
+"Accent Color" = "Accent Color";
 "Filter Tags by usage" = "Filter Tags by usage";
 "Assigned" = "Assigned";
 "Add New Tag…" = "Add New Tag…";
@@ -544,3 +544,10 @@
 "Enter URL" = "Enter URL";
 "URL not valid" = "URL not valid";
 "Please enter a valid URL" = "Please enter a valid URL";
+"Current Day" = "Current Day";
+"Error while loading gallery" = "Error while loading gallery";
+"Symbol" = "Symbol";
+"QR Code" = "QR Code";
+"App Icon" = "App Icon";
+"No reminders added" = "No reminders added";
+"Select an URL and choose \"Reminder\" from the context menu.\nYou can also add a reminder in the Surfed share sheet." = "Select an URL and choose \"Reminder\" from the context menu.\nYou can also add a reminder in the Surfed share sheet.";

@@ -31,36 +31,46 @@
             "color": 1,
             "supportPages": [
                 {
-                "id": 0,
+                  "id": 151,
+                  "title": "Version 1.5.1",
+                  "subtitle": ""
+                },
+                {
+                  "id": 150,
+                  "title": "Version 1.5",
+                  "subtitle": "**Colors**\nUse colors for Tags and Smart Collections as the main color in list view.\nChoose your own accent color in Surfed.\n\n**Tag-View and Share-View UI-Update**\nWith the updated Tagging and Share Sheet view, it's now even easier to tag web pages in Safari or in Surfed.\n\n**Tag-Search: New Filters**\nWith new filters it is now even easier to find the tag you are looking for\n\n**New**:\n• App Accent Colour\n• Coloured Tag & Smart Collection Lists\n• QR-Code Action: Share URL as QR-Code\n• Add URLs manually to Tags, Collections and Favourites\n• Web Trigger: Syntax Highlight Editor and Find & Replace\n• New \"Add Tag\" Button in Lists \n• macOS: Use system accent colour\n• French localisation\n\n**Fix:**\n• Web Trigger: Import Web Trigger from Gallery\n• \"Open all URLs in Browser\" Action\n• Alternate Icons on iPad"
+                },
+                {
+                "id": 141,
                 "title": "Version 1.4.1",
                 "subtitle": "**Web Trigger Functions**\nPrepare actions with the new available Web Trigger functions: \nSearch and Replace, Remove String, URL decode/encode, un-shorten URL\nNew main Actions: Show Article, Listen Article\n\n**Share Sheet Action**\nThe share sheet has a new action extension to quickly run URL actions and Web Triggers on the current Safari website\n\n**Share Sheet**\nRun Web Trigger, Article and AI Actions directly from the Share Sheet\n\n**Latest Tags**\nConfigure how many latest tags should be shown\n\n**New:**\n• Show OpenAI errors\n• Reset uncritical settings with URL scheme\n• Safari Popup: Added flag action\n• Web Trigger: Added support for nested custom parameters\n• Web Trigger: new parameter \"URL ID\"\n• URL parameter \"auto-run-web-trigger=false\" append to URL to prevent automatically run Web Triggers\n\n**Fix:**\n• Limit OpenAI API key length\n• iPad crash"
             },{
-                "id": 1,
+                "id": 140,
                 "title": "Version 1.4",
                 "subtitle": "**Full-text search, Article View, Listen Article**\nExperience seamless reading and listening with new features. Full-Text Search and Article View help find saved articles and improve distraction-free reading. Listen Article integrates with iOS media player to listen to articles with additional info.\n\n**Notification Actions**\nCustomize up to 11 actions per notification Web Trigger for Safari with options like running shortcuts, opening app schemes, adding note or tags, listening to the article, adding a note, tagging and summarizing the article with OpenAI and more. Make changes to personalize notification actions and view them based on trigger rules. Also, try pre-configured notification actions from Web Trigger gallery.\n\n**Auto-Tagging**\nTagging websites has never been easier with our latest Web Trigger action - \"Tag With...\". This feature allows you to automatically tag websites while browsing, making it easier for you to organize and categorize your web content.\n\n**Quick Filter Bar**\nNew filter bar now in all lists and global search to quickly select filters from various options. Quick Filter Bar helps in finding URLs in browsing history and bookmarks easier than ever.\n\n**Configurable List Actions**\nWith this feature, you can configure every list with its own select, leading, and trailing swipe actions. This allows you to customize your browsing experience and access the actions you need quickly and easily.\n\n**OpenAI Actions**\nWith OpenAI Actions, you can easily add tags or summarize an article by OpenAI, making it easier for you to organize and categorize your web content. This feature is optionally and requires an API key. Nothing will be sent without user interaction, ensuring your privacy is always protected.\n\n**New Web Trigger Actions**\n• Color Custom Parameter\n• Comment Block\n• Show App Badge\n• Add Note\n• Speak Article\n• Summarise Article with AI\n• Add Tags with AI\n• New custom parameter \"Daily Total Time\"\n\n**New App Actions**\n• Open in… (open URLs in installed Browsers and selected Apps like Zoom, Apollo)\n• Show Actions Menu\n• Run Web Trigger (in App on selected URL)\n• Show URL\n• Open in Zoom\n• Show Article\n• Show and Edit Note\n• In-App Browser\n• Open in Reader Mode\n• Copy Article\n\n**New**\n• In-App Browser and Reader Mode\n• Triple column mode on iPad and macOS\n• Date Picker in history lists\n• URL notes - add a note to a URL\n• All date search terms have now all conditions (is, is not, before, after)\n• New filter types: Article, Author, Article Language, Note\n• Search for tags in history and global search with \"#tagname\"\n• Shows assigned tags, favourite, flagged, article and note state and action button in text and small icon cells and detail view\n• New Shortcut actions: Get Note, Get Article, Set Note, Remove Tag from URL\n• Alternate coloured App Icons\n• Show flag or favourite state in global search results\n• Show date and time in Safari popup history list\n• Added support for \"Import Questions\" for Web Trigger and Collections\n• Updated editor user interface for Web Trigger and Collections\n• Added URL components to JSON-Array\n• Deep links to Tags and Collections with name like surfed://tag/Apple, surfed://collection/Apple\n• Added Web Trigger item to global search\n• New list cell type \"Long Text\"\n• Run Web Trigger manually by appending key/value parameter \"run-web-trigger=My Trigger\" to the address bar in Safari\n\n**Web Trigger Gallery**\n• Content Warning\n• Daily Browsing Limit\n• Automatically Tagging\n• Highlight Search Terms\n\n**Fix**\n• Safari Extension Popup: Set Tag\n• Resolving custom parameters in all Web Trigger actions\n• Refreshing sidebar items in multiple windows\n• Sorting tags and collections (case insensitive)\n• Adding collection groups to favourite section\n• updating title in lists after editing\n• blocking UI when searching\n• Testing a Web Trigger now using configured custom parameters"
             },
                 {
-                "id": 2,
+                "id": 130,
                 "title": "Version 1.3",
                 "subtitle": "**Web Trigger is a new web automation feature in Surfed.**\nRun Shortcuts, open app schemes, perform background URL requests, inject JavaScript code, show notifications, copy to clipboard – everything automatically when browsing websites in Safari.\nCheckout the gallery for easy to install pre-configured Web Triggers.\n\n**New:**\n\n• **On This Day** Search Action\nTap on **On This Day** action for a URL entry to show the history on this day.\n\n• Shortcuts Action **Export Tag** with tagged URLs\nExport one or more Tags with all tagged URLs into a file. This can be used to share a tag with others via iCloud file sharing.\n\n• Copy URL as Markdown action\nGet a formatted markdown link with title and link.\n\n• New sort methods by flagged and favourite state\nNow you can sort your lists by flagged and favourite state\n\n• Toolbar Buttons\nOn iPadOS 16 and macOS Ventura all context menu items are now available in the toolbar.\n\n• All new Symbol Picker\nWith the new symbol picker UI it is easy to find the right icon for your tags, collections and web trigger. Now with a tons of new symbols.\n\n• Preview Mode: added **Open in Safari** button\nNow you can switch handover your Link from the Preview Mode to Safari\n\n• Command line interface on macOS\nOn macOS you can now search your browsing history, URLs, tags and collections from the command line.\n\n**Fix:**\n• Global search: search for urls, which are not in history\n• fixed loading error in Safari popup\n• added a new preferences window\n• Blacklisting fixed\n• Search in Safari extension popup group results by URL",
                 "imageURL": "https://surfed.app/support/images/en/1.3.png",
                 "darkImageURL": "https://surfed.app/support/images/en/1.3-dark.png"
             },
                 {
-                    "id": 3,
+                    "id": 120,
                     "title": "Version 1.2",
                     "subtitle": "**New:**\n• Password Protection\nProtect your browsing history and Surfed with your password. No one can see your browsing history, tags and collections.\n\n• iOS 16: Lockscreen Widgets\n• New Widget \"Search in Surfed\"\n• New System Actions: Backup and Restore Surfed Database\n• New System Action: Delete all history items\n• New Shortcut Action \"Backup Database\"\n• Added context menu to global search items\n• Updated Widget Layout\n• Added \"Latest Tags\" to \"Tag\" context menu\n• Added user settings for show/hide tag/collection section in share sheet\n• UI Improvements\n• Chinese Localisation\n\n**Fix:**\n• Menu item \"Add Tag…\" was not available in Tag context menu\n• Private Browsing Mode alert was shown after closing release notes ",
                     "imageURL": "https://surfed.app/support/images/en/password.png",
                     "darkImageURL": "https://surfed.app/support/images/en/password-dark.png"
                 },
                 {
-                    "id": 4,
+                    "id": 111,
                     "title": "Version 1.1.1",
                     "subtitle": "**Fix:**\n• „Pro Feature“ unlock was not valid in app extensions",
                     "systemImage": "wrench"
                 },
                 {
-                    "id": 5,
+                    "id": 110,
                     "title": "Version 1.1",
                     "subtitle": "**New:**\n• Collections Gallery\nThe Gallery offers preconfigured collections that can be used with one tap. („Add collection“ > „Gallery“)\n\n• macOS version is available\n• Search with regular expressions in smart collections\n• New setting: save history in private browsing mode (default is not save)\n• Global search: search term „#“ limits search to tags, „@“ limits search to collections\n• Collections are now called „Smart Collections“\n• Save collections and tags into Files App\n• German localization\n\n**Fix:**\n• Some web pages were not added to history\n• Session time is ended when closing tabs and windows\n• Date and time conditions in collections\n• iPad: Open in new window\n• Shortcut: Get Metadata for URL",
                     "imageURL": "https://surfed.app/support/images/en/gallery.jpeg",
@@ -444,6 +454,16 @@
                         "id": 7,
                         "title": "readability",
                         "text": "Copyright (c) 2010 Arc90 Inc\n\nLicensed under the Apache License, Version 2.0 (the \"License\");\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License at\n\n   http://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \"AS IS\" BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License."
+                    },
+                {
+                        "id": 8,
+                        "title": "Runestone",
+                        "text": "MIT License\n\nCopyright (c) 2021 Simon Støvring\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+                    },
+                {
+                        "id": 9,
+                        "title": "TreeSitterLanguages",
+                        "text": "MIT License\n\nCopyright (c) 2021 Simon Støvring\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
                     }
             ]
         }

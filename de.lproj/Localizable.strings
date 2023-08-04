@@ -534,7 +534,7 @@
 "App Badge" = "App Kennzeichen";
 "Added: %@" = "Hinzugefügt: %@";
 "List Colouring" = "Liste einfärben";
-"App Tint" = "Farbton der App";
+"Accent Color" = "Akzentfarbe";
 "Filter Tags by usage" = "Tags nach Verwendung filtern";
 "Assigned" = "Zugewiesen";
 "Add New Tag…" = "Neuen Tag hinzufügen…";
@@ -544,4 +544,10 @@
 "Enter URL" = "URL eingeben";
 "URL not valid" = "URL ungültig";
 "Please enter a valid URL" = "Bitte geben Sie eine gültige URL ein";
-
+"Current Day" = "Aktueller Tag";
+"Error while loading gallery" = "Fehler beim Laden der Gallerie";
+"Symbol" = "Symbol";
+"QR Code" = "QR Code";
+"App Icon" = "App Icon";
+"No reminders added" = "Keine Erinnerungen hinzugefügt";
+"Select an URL and choose \"Reminder\" from the context menu.\nYou can also add a reminder in the Surfed share sheet." = "Wählen Sie eine URL aus und wählen Sie \"Erinnerung\" aus dem Kontextmenü.\Sie können auch eine Erinnerung über die Surfed Teilen-Ansicht hinzufügen.";

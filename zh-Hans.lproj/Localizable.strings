@@ -141,7 +141,7 @@
 "Search Terms" = "搜索条件";
 "OR" = "或";
 "Customized" = "定制选项";
-"Add search term" = 添加搜索条件;
+"Add search term" = "添加搜索条件";
 "Add date/time condition" = "添加日期/时间条件";
 "Add…" = "添加…";
 "Select a date" = "选择日期";
@@ -534,7 +534,7 @@
 "App Badge" = "App 角标";
 "Added: %@" = "添加于： %@";
 "List Colouring" = "列表页颜色";
-"App Tint" = "App 主题色";
+"Accent Color" = "App 主题色";
 "Filter Tags by usage" = "根据使用情况过滤标签";
 "Assigned" = "已分配";
 "Add New Tag…" = "添加新标签…";
@@ -544,3 +544,10 @@
 "Enter URL" = "输入网址";
 "URL not valid" = "网址格式不正确";
 "Please enter a valid URL" = "请输入格式正确的网址";
+"Current Day" = "Current Day";
+"Error while loading gallery" = "Error while loading gallery";
+"Symbol" = "Symbol";
+"QR Code" = "QR Code";
+"App Icon" = "App Icon";
+"No reminders added" = "No reminders added";
+"Select an URL and choose \"Reminder\" from the context menu.\nYou can also add a reminder in the Surfed share sheet." = "Select an URL and choose \"Reminder\" from the context menu.\nYou can also add a reminder in the Surfed share sheet.";
