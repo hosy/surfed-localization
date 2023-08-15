@@ -506,6 +506,7 @@
 "When using OpenAI actions, data will be sent to their server for processing. Please note that running actions using OpenAI´s services my incur charges.\nTo access the services, please set up an API key here:\nhttps://platform.openai.com/account/api-keys" = "当使用 OpenAI 的操作时，相关数据将会发送给 OpenAI 服务器进行处理。 使用 Open AI 服务可能会产生费用。\n请设置 API Key 来使用 Open AI 服务\nhttps://platform.openai.com/account/api-keys";
 "Article Summary" = "文章摘要";
 "Search in: " = "搜索：";
+"Save Articles" = "Save Articles";
 "If this option is enabled, all articles will be saved and can be searched." = "如果启用该选项，所有的文章都会被下载到本地，并可以搜索其内容。";
 "Reading Time: %@ min" = "阅读时间： %@ 分钟";
 "Share with…" = "分享…";

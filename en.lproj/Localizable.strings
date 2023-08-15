@@ -506,6 +506,7 @@
 "When using OpenAI actions, data will be sent to their server for processing. Please note that running actions using OpenAI´s services my incur charges.\nTo access the services, please set up an API key here:\nhttps://platform.openai.com/account/api-keys" = "When using OpenAI actions, data will be sent to their server for processing. Please note that running actions using OpenAI´s services my incur charges.\nTo access the services, please set up an API key here:\nhttps://platform.openai.com/account/api-keys";
 "Article Summary" = "Article Summary";
 "Search in: " = "Search in: ";
+"Save Articles" = "Save Articles";
 "If this option is enabled, all articles will be saved and can be searched." = "If this option is enabled, all articles will be saved and can be searched.";
 "Reading Time: %@ min" = "Reading Time: %@ min";
 "Share with…" = "Share with…";

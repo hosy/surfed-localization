@@ -506,6 +506,7 @@
 "When using OpenAI actions, data will be sent to their server for processing. Please note that running actions using OpenAI´s services my incur charges.\nTo access the services, please set up an API key here:\nhttps://platform.openai.com/account/api-keys" = "Bei der Verwendung von OpenAI-Aktionen werden die Daten zur Verarbeitung an deren Server gesendet. Bitte beachten Sie, dass für die Ausführung von Aktionen, die die Dienste von OpenAI nutzen, Gebühren anfallen können.\nUm auf die Dienste zuzugreifen, richten Sie bitte hier einen API-Schlüssel ein:\nhttps://platform.openai.com/account/api-keys";
 "Article Summary" = "Artikel Zusammenfassung";
 "Search in: " = "Suchen in: ";
+"Save Articles" = "Artikel speichern";
 "If this option is enabled, all articles will be saved and can be searched." = "Wenn diese Option aktiviert ist, werden alle Artikel gespeichert und können durchsucht werden.";
 "Reading Time: %@ min" = "Lesezeit: %@ min";
 "Share with…" = "Teilen mit…";
