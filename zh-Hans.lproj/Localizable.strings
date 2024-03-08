@@ -220,7 +220,7 @@
 "Welcome to Surfed" = "欢迎使用 Surfed";
 "Gallery" = "网页触发器中心";
 "Preview Setup" = "预览设置";
-"Version: %@" = "版本号: %@";
+"Version" = "版本号";
 "Custom collection" = "自定义智能合集";
 "From Gallery" = "从智能合集中心中导入";
 "If you have a collection that you would like to share, please send it to support@surfed.app and it may soon appear in this gallery." = "如果您想分享自己的智能合集，请发邮件到 support@surfed.app，我们将会将其展示在智能合集中心。";
@@ -653,14 +653,16 @@
 "Pause" = "暂停";
 "Articles" = "文章";
 "No articles available" = "无可用文章";
-"Listen articles with %@" = "Listen articles with %@";
-"Listen link article with %@" = "Listen link article with %@";
-"Load more…" = "Load more…";
-"Share Article as Audio…" = "Share Article as Audio…";
-"Morning" = "Morning";
-"Afternoon" = "Afternoon";
-"Evening" = "Evening";
-"At Night" = "At Night";
-"Reload Image" = "Reload Image";
-"From this domain" = "From this domain";
+"Listen articles with %@" = "使用%@朗读文章";
+"Listen link article with %@" = "使用%@朗读链接文章";
+"Load more…" = "加载更多…";
+"Share Article as Audio…" = "分享文章音频…";
+"Morning" = "早晨";
+"Afternoon" = "下午";
+"Evening" = "晚上";
+"At Night" = "夜间";
+"Reload Image" = "重新加载图片";
+"From this domain" = "来自该域名";
+"Banner" = "Banner";
+"Image" = "Image";
 

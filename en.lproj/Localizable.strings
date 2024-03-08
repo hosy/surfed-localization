@@ -220,7 +220,7 @@
 "Welcome to Surfed" = "Welcome to Surfed";
 "Gallery" = "Gallery";
 "Preview Setup" = "Preview Setup";
-"Version: %@" = "Version: %@";
+"Version" = "Version";
 "Custom collection" = "Custom Smart Collection";
 "From Gallery" = "From Gallery";
 "If you have a collection that you would like to share, please send it to support@surfed.app and it may soon appear in this gallery." = "If you have a smart collection that you would like to share, please send it to support@surfed.app and it may soon appear in this gallery.";
@@ -664,3 +664,5 @@
 "At Night" = "At Night";
 "Reload Image" = "Reload Image";
 "From this domain" = "From this domain";
+"Banner" = "Banner";
+"Image" = "Image";
