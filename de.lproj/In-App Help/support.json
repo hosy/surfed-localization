@@ -31,9 +31,14 @@
             "color": 1,
             "supportPages": [
                 {
+                  "id": 200,
+                  "title": "Version 2.0",
+                  "subtitle": "**iCloud Sync**\nSynchronisieren Sie Ihren Browserverlauf, intelligente Sammlungen, Tags, Web-Triggers, URLs und App-Einstellungen auf all Ihre Geräte.\n\n**Bereiche & Profile**\nOrganisieren Sie Ihre Elemente in verschiedenen Bereichen. Kompatibel mit Safari iOS 17 Profilen.\n\n**Neues App-Icon**\nMatthew Skiles hat ein neues App-Icon designed.\n\n**Mehrfachauswahl**\nWählen Sie mehrere Elemente in Listen aus und führen Sie Aktionen aus.\n\n**Fokus Filter**\nWählen Sie Ihren Bereich und Web-Trigger-Verhalten mit dem neuen Fokus-Filter an.\n\n**Aktivitäts-Widget**\nÜberwachen Sie Ihre tägliche Browseraktivität mit einem Heatmap-Widget.\n\n**Versteckte Elemente**\nBlenden Sie mit benutzerdefinierten Filterbegriffen Elemente im Verlauf, in intelligenten Sammlungen und Tag-Listen aus.\n\n**Umgebungsfilter**\nFiltern Sie Listen nach Bereich oder Gerät mit dem neuen Umgebungsfilter.\n\n**Web-Trigger-Aktion “An Bereich zuweisen”**\nWeisen Sie den Browserverlauf automatisch einem ausgewählten Bereich zu, während Sie in Safari surfen.\n\n**Shorcuts Aktion “Zu Bereich wechseln”**\nWechseln Sie mit Shortcuts zu einem ausgewählten Bereich.\n\n**Globale Web-Trigger-Einstellung**\nOption zum Deaktivieren automatischer Web-Trigger-Aktionen.\n\n**Bookmarks-Import**\nImportieren Sie Lesezeichen aus Browsern oder Anwendungen von Drittanbietern.\n\n**Web Trigger**\nFilterregeln Gerät, Standort, privater Modus und neuen Artikelparameter Lesezeit hinzugefügt.\n\n**Artikel anhören**\nArtikel anhören verwendet die Siri-Stimme (falls verfügbar) für ein besseres Hörerlebnis.\n\n**Filter Regeln**\nNeue Filter-Regeln Gerät, Standort, privater Modus und Sitzungszeit hinzugefügt\n\n**Globale Suche**\nKontextmenü-Aktionen hinzugefügt\n"
+                },
+                {
                   "id": 151,
                   "title": "Version 1.5.1",
-                  "subtitle": "**Neu:*\n• Datum-Suchbegriff \"Aktueller Tag\" hinzugefügt \n\n**Fix:*\n• Datum-Suchbegriff \"Aktueller Monat\" war fehlerhaft\n• Schaltfläche \"Hinzufügen\" unter Suchbegriffe war fehlerhaft\n• Aktualisierte Chinesische Übersetzung von zshbleaker"
+                  "subtitle": "**Neu:**\n• Datum-Suchbegriff \"Aktueller Tag\" hinzugefügt \n\n**Fix:**\n• Datum-Suchbegriff \"Aktueller Monat\" war fehlerhaft\n• Schaltfläche \"Hinzufügen\" unter Suchbegriffe war fehlerhaft\n• Aktualisierte Chinesische Übersetzung von zshbleaker"
                 },
                 {
                   "id": 150,
@@ -278,9 +283,9 @@
                     "supportPages": [
                         {
                             "id": 0,
-                            "title": "Unbegrenzten Zugang erhalten",
-                            "subtitle": "Surfed kann kostenlos genutzt werden, einige Funktionen sind jedoch eingeschränkt.\nSehen Sie sich auf den folgenden Seiten an, welche Funktionen nach der Freischaltung genutzt werden können.",
-                            "systemImage": "heart"
+                            "title": "iCloud Syncronization",
+                            "subtitle": "Synchronisieren Sie Ihren gesamten Browserverlauf, Tags, Sammlungen, Web Trigger und Einstellungen auf allen Ihren Geräten.",
+                            "systemImage": "arrow.triangle.2.circlepath.icloud"
                         },
                         {
                             "id": 1,
@@ -457,6 +462,16 @@
                         "id": 9,
                         "title": "TreeSitterLanguages",
                         "text": "MIT License\n\nCopyright (c) 2021 Simon Støvring\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+                    },
+                {
+                        "id": 10,
+                        "title": "CloudSyncSession",
+                        "text": "MIT License\n\nCopyright (c) 2023 Ryan Ashcraft\n\nPortions of this library were taken and modified from\n[Cirrus](https://github.com/jayhickey/Cirrus) under the MIT license:\n\nCopyright (c) 2020 Jay Hickey\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+                    },
+                {
+                        "id": 11,
+                        "title": "SwiftSoup",
+                        "text": "MIT License\n\nCopyright (c) 2016 Nabil Chatbi\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
                     }
             ]
         }

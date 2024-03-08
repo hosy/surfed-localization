@@ -31,9 +31,14 @@
         "color": 1,
         "supportPages": [
             {
+              "id": 200,
+              "title": "Version 2.0",
+              "subtitle": "**iCloud Sync**\nSynchronise your Browsing History, Smart Collections, Tags, Web Triggers, URLs, and App Settings across all your devices.\n\n**Spaces & Profiles**\nOrganise your items in different spaces. Compatible with Safari iOS 17 Profiles.\n\n**New App Icon**\nMatthew Skiles has designed a fresh app icon.\n\n**Multi-Select**\nSelect multiple items in lists and perform actions.\n\n**Focus Filter**\nSelect your Space and Web Trigger behaviour with our new Focus Filter.\n\n**Activity Widget**\nMonitor your daily browsing activity with a heatmap widget.\n\n**Location Filter**\nFilter lists by space or device with the new Location Filter.\n\n**Web Trigger Action “Assign to Space”**\nAutomatically assign browsing history to a selected space while browsing in Safari.\n\n**Shorcuts Action “Switch to Space”**\nSwitch to a selected space with Shortcuts.\n\n**Global Web Trigger Setting**\nOption to disable automatic Web Trigger actions.\n\n**Import Bookmarks**\nImport bookmarks from browsers or third-party apps.\n\n**Web Trigger**\nAdded rules filter device and location and new article parameter reading time.\n\n**Listen Article**\nListen article is using the high quality Siri voice (if available) for a better listening experience."
+            },
+            {
               "id": 151,
               "title": "Version 1.5.1",
-              "subtitle": "**New:*\n• added date search term \"current day\"\n\n**Fix:*\n• fixed date search term \"current month\"\n• fixed add button in terms section\n• updated Chinese translation by zshbleaker"
+              "subtitle": "**New:**\n• added date search term \"current day\"\n\n**Fix:**\n• fixed date search term \"current month\"\n• fixed add button in terms section\n• updated Chinese translation by zshbleaker"
             },
             {
               "id": 150,
@@ -272,9 +277,9 @@
                     "supportPages": [
                         {
                             "id": 0,
-                            "title": "无限制访问",
-                            "subtitle": "Surfed可免费使用，但部分功能受限。\n请在下个页面中查看全部功能列表。",
-                            "systemImage": "heart"
+                            "title": "iCloud Sync",
+                            "subtitle": "Syncronize all your browsing history, Tags, Collections, Web Trigger and Settings accross your devices.",
+                            "systemImage": "arrow.triangle.2.circlepath.icloud"
                         },
                         {
                             "id": 1,
@@ -451,6 +456,16 @@
                         "id": 9,
                         "title": "TreeSitterLanguages",
                         "text": "MIT License\n\nCopyright (c) 2021 Simon Støvring\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+                    },
+                {
+                        "id": 10,
+                        "title": "CloudSyncSession",
+                        "text": "MIT License\n\nCopyright (c) 2023 Ryan Ashcraft\n\nPortions of this library were taken and modified from\n[Cirrus](https://github.com/jayhickey/Cirrus) under the MIT license:\n\nCopyright (c) 2020 Jay Hickey\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+                    },
+                {
+                        "id": 11,
+                        "title": "SwiftSoup",
+                        "text": "MIT License\n\nCopyright (c) 2016 Nabil Chatbi\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
                     }
             ]
         }
